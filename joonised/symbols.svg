@@ -2,9 +2,9 @@
 <svg
    x="0"
    y="0"
-   width="661.4666748046875"
-   height="403.4000244140625"
-   style="         width:661.4666748046875px;         height:403.4000244140625px;         background: transparent;         fill: none; "
+   width="661.5333251953125"
+   height="403.4666748046875"
+   style="         width:661.5333251953125px;         height:403.4666748046875px;         background: #FFF;         fill: none; "
    version="1.1"
    id="svg444"
    sodipodi:docname="symbols.svg"
@@ -24,9 +24,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="3.856946"
-     inkscape:cx="254.60559"
-     inkscape:cy="208.84399"
+     inkscape:zoom="3.2983977"
+     inkscape:cx="330.76666"
+     inkscape:cy="201.76463"
      inkscape:window-width="3200"
      inkscape:window-height="1771"
      inkscape:window-x="-9"
@@ -41,7 +41,7 @@
       <defs
          id="defs1">
         <pattern
-           id=".8227654574615837"
+           id=".7904454897534353"
            width="10"
            height="10"
            patternUnits="userSpaceOnUse">
@@ -56,7 +56,7 @@
       <rect
          width="100%"
          height="100%"
-         fill="url(#.8227654574615837)"
+         fill="url(#.7904454897534353)"
          stroke="lightgray"
          stroke-width="0.5"
          id="rect1" />
@@ -88,7 +88,7 @@
       <g
          id="g8">
         <g
-           transform="translate(29.733337,32.666672)"
+           transform="translate(29.766663,33)"
            id="g7">
           <path
              transform="scale(0.017,-0.017)"
@@ -110,7 +110,7 @@
             <g
                id="g10">
               <g
-                 transform="translate(38.733337,35.9)"
+                 transform="translate(38.766663,35.633337)"
                  id="g9">
                 <path
                    transform="scale(0.0119,-0.0119)"
@@ -136,7 +136,7 @@
       <g
          id="g17">
         <g
-           transform="translate(105.73334,37.266663)"
+           transform="translate(105.76666,37.599991)"
            id="g16">
           <path
              transform="scale(0.017,-0.017)"
@@ -158,7 +158,7 @@
             <g
                id="g19">
               <g
-                 transform="translate(114.73334,40.500006)"
+                 transform="translate(114.76666,40.233328)"
                  id="g18">
                 <path
                    transform="scale(0.0119,-0.0119)"
@@ -184,7 +184,7 @@
       <g
          id="g26">
         <g
-           transform="translate(370.73334,37.666672)"
+           transform="translate(370.76666,38)"
            id="g25">
           <path
              transform="scale(0.017,-0.017)"
@@ -206,7 +206,7 @@
             <g
                id="g28">
               <g
-                 transform="translate(379.73334,40.9)"
+                 transform="translate(379.76666,40.633337)"
                  id="g27">
                 <path
                    transform="scale(0.0119,-0.0119)"
@@ -232,7 +232,7 @@
       <g
          id="g35">
         <g
-           transform="translate(311.73334,36.666672)"
+           transform="translate(311.76666,37)"
            id="g34">
           <path
              transform="scale(0.017,-0.017)"
@@ -254,7 +254,7 @@
             <g
                id="g37">
               <g
-                 transform="translate(320.73334,39.9)"
+                 transform="translate(320.76666,39.633337)"
                  id="g36">
                 <path
                    transform="scale(0.0119,-0.0119)"
@@ -280,7 +280,7 @@
       <g
          id="g44">
         <g
-           transform="translate(235.73334,39.666672)"
+           transform="translate(235.76666,40)"
            id="g43">
           <path
              transform="scale(0.017,-0.017)"
@@ -302,7 +302,7 @@
             <g
                id="g46">
               <g
-                 transform="translate(244.73334,42.9)"
+                 transform="translate(244.76666,42.633337)"
                  id="g45">
                 <path
                    transform="scale(0.0119,-0.0119)"
@@ -328,7 +328,7 @@
       <g
          id="g53">
         <g
-           transform="translate(160.73334,41.666672)"
+           transform="translate(160.76666,42)"
            id="g52">
           <path
              transform="scale(0.017,-0.017)"
@@ -350,7 +350,7 @@
             <g
                id="g55">
               <g
-                 transform="translate(169.73334,44.9)"
+                 transform="translate(169.76666,44.633337)"
                  id="g54">
                 <path
                    transform="scale(0.0119,-0.0119)"
@@ -376,7 +376,7 @@
       <g
          id="g62">
         <g
-           transform="translate(40.733337,101.66667)"
+           transform="translate(40.766663,101.99998)"
            id="g61">
           <path
              transform="scale(0.017,-0.017)"
@@ -392,7 +392,7 @@
       <g
          id="g64">
         <g
-           transform="translate(51.099976,101.73335)"
+           transform="translate(51.133362,101.76665)"
            id="g63">
           <path
              transform="scale(0.017,-0.017)"
@@ -408,7 +408,7 @@
       <g
          id="g66">
         <g
-           transform="translate(56.75,101.66667)"
+           transform="translate(56.783386,101.99998)"
            id="g65">
           <path
              transform="scale(0.017,-0.017)"
@@ -424,7 +424,7 @@
       <g
          id="g68">
         <g
-           transform="translate(62.400024,101.73335)"
+           transform="translate(62.43335,101.76665)"
            id="g67">
           <path
              transform="scale(0.017,-0.017)"
@@ -447,7 +447,7 @@
       <g
          id="g72">
         <g
-           transform="translate(121.73334,100.66667)"
+           transform="translate(121.76666,100.99998)"
            id="g71">
           <path
              transform="scale(0.017,-0.017)"
@@ -463,7 +463,7 @@
       <g
          id="g74">
         <g
-           transform="translate(130.21667,100.73335)"
+           transform="translate(130.25,100.76665)"
            id="g73">
           <path
              transform="scale(0.017,-0.017)"
@@ -479,7 +479,7 @@
       <g
          id="g76">
         <g
-           transform="translate(135.8667,100.66667)"
+           transform="translate(135.90002,100.99998)"
            id="g75">
           <path
              transform="scale(0.017,-0.017)"
@@ -495,7 +495,7 @@
       <g
          id="g78">
         <g
-           transform="translate(141.51666,100.73335)"
+           transform="translate(141.54999,100.76665)"
            id="g77">
           <path
              transform="scale(0.017,-0.017)"
@@ -518,7 +518,7 @@
       <g
          id="g82">
         <g
-           transform="translate(207.73334,105.66667)"
+           transform="translate(207.76666,105.99998)"
            id="g81">
           <path
              transform="scale(0.017,-0.017)"
@@ -534,7 +534,7 @@
       <g
          id="g84">
         <g
-           transform="translate(216.21667,105.73335)"
+           transform="translate(216.25,105.76665)"
            id="g83">
           <path
              transform="scale(0.017,-0.017)"
@@ -550,7 +550,7 @@
       <g
          id="g86">
         <g
-           transform="translate(221.8667,105.66667)"
+           transform="translate(221.90002,105.99998)"
            id="g85">
           <path
              transform="scale(0.017,-0.017)"
@@ -566,7 +566,7 @@
       <g
          id="g88">
         <g
-           transform="translate(230.91669,105.66667)"
+           transform="translate(230.95001,105.99998)"
            id="g87">
           <path
              transform="scale(0.017,-0.017)"
@@ -582,7 +582,7 @@
       <g
          id="g90">
         <g
-           transform="translate(244.59998,105.66667)"
+           transform="translate(244.63336,105.99998)"
            id="g89">
           <path
              transform="scale(0.017,-0.017)"
@@ -598,7 +598,7 @@
       <g
          id="g92">
         <g
-           transform="translate(253.08337,105.73335)"
+           transform="translate(253.1167,105.76665)"
            id="g91">
           <path
              transform="scale(0.017,-0.017)"
@@ -621,7 +621,7 @@
       <g
          id="g96">
         <g
-           transform="translate(351.73334,107.66667)"
+           transform="translate(351.76666,107.99998)"
            id="g95">
           <path
              transform="scale(0.017,-0.017)"
@@ -637,7 +637,7 @@
       <g
          id="g98">
         <g
-           transform="translate(363.43335,107.73335)"
+           transform="translate(363.46674,107.76665)"
            id="g97">
           <path
              transform="scale(0.017,-0.017)"
@@ -653,7 +653,7 @@
       <g
          id="g100">
         <g
-           transform="translate(369.08337,107.66667)"
+           transform="translate(369.11664,107.99998)"
            id="g99">
           <path
              transform="scale(0.017,-0.017)"
@@ -669,7 +669,7 @@
       <g
          id="g102">
         <g
-           transform="translate(374.73334,107.73335)"
+           transform="translate(374.76666,107.76665)"
            id="g101">
           <path
              transform="scale(0.017,-0.017)"
@@ -692,7 +692,7 @@
       <g
          id="g106">
         <g
-           transform="translate(69.733337,172.66667)"
+           transform="translate(69.766663,172.99998)"
            id="g105">
           <path
              transform="scale(0.017,-0.017)"
@@ -708,7 +708,7 @@
       <g
          id="g108">
         <g
-           transform="translate(78.216675,172.73335)"
+           transform="translate(78.25,172.76665)"
            id="g107">
           <path
              transform="scale(0.017,-0.017)"
@@ -724,7 +724,7 @@
       <g
          id="g110">
         <g
-           transform="translate(83.866699,172.66667)"
+           transform="translate(83.900024,172.99998)"
            id="g109">
           <path
              transform="scale(0.017,-0.017)"
@@ -740,7 +740,7 @@
       <g
          id="g112">
         <g
-           transform="translate(89.516663,172.73335)"
+           transform="translate(89.549988,172.76665)"
            id="g111">
           <path
              transform="scale(0.017,-0.017)"
@@ -763,7 +763,7 @@
       <g
          id="g116">
         <g
-           transform="translate(162.73334,171.66667)"
+           transform="translate(162.76666,171.99998)"
            id="g115">
           <path
              transform="scale(0.017,-0.017)"
@@ -779,7 +779,7 @@
       <g
          id="g118">
         <g
-           transform="translate(170.58337,171.73335)"
+           transform="translate(170.6167,171.76665)"
            id="g117">
           <path
              transform="scale(0.017,-0.017)"
@@ -795,7 +795,7 @@
       <g
          id="g120">
         <g
-           transform="translate(176.23334,171.66667)"
+           transform="translate(176.26666,171.99998)"
            id="g119">
           <path
              transform="scale(0.017,-0.017)"
@@ -811,7 +811,7 @@
       <g
          id="g122">
         <g
-           transform="translate(181.88336,171.73335)"
+           transform="translate(181.91669,171.76665)"
            id="g121">
           <path
              transform="scale(0.017,-0.017)"
@@ -834,7 +834,7 @@
       <g
          id="g126">
         <g
-           transform="translate(249.73334,171.66667)"
+           transform="translate(249.76666,171.99998)"
            id="g125">
           <path
              transform="scale(0.017,-0.017)"
@@ -850,7 +850,7 @@
       <g
          id="g128">
         <g
-           transform="translate(257.58337,171.73335)"
+           transform="translate(257.6167,171.76665)"
            id="g127">
           <path
              transform="scale(0.017,-0.017)"
@@ -866,7 +866,7 @@
       <g
          id="g130">
         <g
-           transform="translate(263.23334,171.66667)"
+           transform="translate(263.26666,171.99998)"
            id="g129">
           <path
              transform="scale(0.017,-0.017)"
@@ -882,7 +882,7 @@
       <g
          id="g132">
         <g
-           transform="translate(272.28333,171.66667)"
+           transform="translate(272.31671,171.99998)"
            id="g131">
           <path
              transform="scale(0.017,-0.017)"
@@ -898,7 +898,7 @@
       <g
          id="g134">
         <g
-           transform="translate(285.96667,171.66667)"
+           transform="translate(286.00006,171.99998)"
            id="g133">
           <path
              transform="scale(0.017,-0.017)"
@@ -914,7 +914,7 @@
       <g
          id="g136">
         <g
-           transform="translate(294.45001,171.73335)"
+           transform="translate(294.48334,171.76665)"
            id="g135">
           <path
              transform="scale(0.017,-0.017)"
@@ -937,7 +937,7 @@
       <g
          id="g140">
         <g
-           transform="translate(442.73334,109.66667)"
+           transform="translate(442.76666,109.99998)"
            id="g139">
           <path
              transform="scale(0.017,-0.017)"
@@ -953,7 +953,7 @@
       <g
          id="g142">
         <g
-           transform="translate(454.43335,109.73335)"
+           transform="translate(454.46674,109.76665)"
            id="g141">
           <path
              transform="scale(0.017,-0.017)"
@@ -969,7 +969,7 @@
       <g
          id="g144">
         <g
-           transform="translate(460.08337,109.66667)"
+           transform="translate(460.11664,109.99998)"
            id="g143">
           <path
              transform="scale(0.017,-0.017)"
@@ -985,7 +985,7 @@
       <g
          id="g146">
         <g
-           transform="translate(469.13336,109.66667)"
+           transform="translate(469.16669,109.99998)"
            id="g145">
           <path
              transform="scale(0.017,-0.017)"
@@ -1001,7 +1001,7 @@
       <g
          id="g148">
         <g
-           transform="translate(482.81665,109.66667)"
+           transform="translate(482.85004,109.99998)"
            id="g147">
           <path
              transform="scale(0.017,-0.017)"
@@ -1017,7 +1017,7 @@
       <g
          id="g150">
         <g
-           transform="translate(491.29999,109.73335)"
+           transform="translate(491.33331,109.76665)"
            id="g149">
           <path
              transform="scale(0.017,-0.017)"
@@ -1040,7 +1040,7 @@
       <g
          id="g154">
         <g
-           transform="translate(349.73334,172.66667)"
+           transform="translate(349.76666,172.99998)"
            id="g153">
           <path
              transform="scale(0.017,-0.017)"
@@ -1068,8 +1068,8 @@
                   <g
                      id="g155">
                     <text
-                       x="361.54999"
-                       y="166.2"
+                       x="361.58331"
+                       y="166.8"
                        style="font-style:normal;font-weight:400;font-size:10.5px;font-family:Arial, Helvetica, sans-serif;dominant-baseline:text-before-edge;white-space:pre;fill:#667982;fill-opacity:1;stroke:none"
                        id="text154">acc</text>
                   </g>
@@ -1082,7 +1082,7 @@
       <g
          id="g163">
         <g
-           transform="translate(378.90002,172.73335)"
+           transform="translate(378.93329,172.76665)"
            id="g162">
           <path
              transform="scale(0.017,-0.017)"
@@ -1098,7 +1098,7 @@
       <g
          id="g165">
         <g
-           transform="translate(384.54999,172.66667)"
+           transform="translate(384.58331,172.99998)"
            id="g164">
           <path
              transform="scale(0.017,-0.017)"
@@ -1114,7 +1114,7 @@
       <g
          id="g167">
         <g
-           transform="translate(390.20001,172.73335)"
+           transform="translate(390.23334,172.76665)"
            id="g166">
           <path
              transform="scale(0.017,-0.017)"
@@ -1137,7 +1137,7 @@
       <g
          id="g171">
         <g
-           transform="translate(440.73334,176.66667)"
+           transform="translate(440.76666,176.99998)"
            id="g170">
           <path
              transform="scale(0.017,-0.017)"
@@ -1165,8 +1165,8 @@
                   <g
                      id="g172">
                     <text
-                       x="452.54999"
-                       y="170.2"
+                       x="452.58331"
+                       y="170.8"
                        style="font-style:normal;font-weight:400;font-size:10.5px;font-family:Arial, Helvetica, sans-serif;dominant-baseline:text-before-edge;white-space:pre;fill:#667982;fill-opacity:1;stroke:none"
                        id="text171">opt</text>
                   </g>
@@ -1179,7 +1179,7 @@
       <g
          id="g180">
         <g
-           transform="translate(468.15002,176.73335)"
+           transform="translate(468.18329,176.76665)"
            id="g179">
           <path
              transform="scale(0.017,-0.017)"
@@ -1195,7 +1195,7 @@
       <g
          id="g182">
         <g
-           transform="translate(473.79999,176.66667)"
+           transform="translate(473.83331,176.99998)"
            id="g181">
           <path
              transform="scale(0.017,-0.017)"
@@ -1211,7 +1211,7 @@
       <g
          id="g184">
         <g
-           transform="translate(479.45001,176.73335)"
+           transform="translate(479.48334,176.76665)"
            id="g183">
           <path
              transform="scale(0.017,-0.017)"
@@ -1234,7 +1234,7 @@
       <g
          id="g188">
         <g
-           transform="translate(519.73334,175.66667)"
+           transform="translate(519.76666,175.99998)"
            id="g187">
           <path
              transform="scale(0.017,-0.017)"
@@ -1262,8 +1262,8 @@
                   <g
                      id="g189">
                     <text
-                       x="531.54999"
-                       y="169.2"
+                       x="531.58331"
+                       y="169.8"
                        style="font-style:normal;font-weight:400;font-size:10.5px;font-family:Arial, Helvetica, sans-serif;dominant-baseline:text-before-edge;white-space:pre;fill:#667982;fill-opacity:1;stroke:none"
                        id="text188">el</text>
                   </g>
@@ -1276,7 +1276,7 @@
       <g
          id="g197">
         <g
-           transform="translate(540.73334,175.73335)"
+           transform="translate(540.76666,175.76665)"
            id="g196">
           <path
              transform="scale(0.017,-0.017)"
@@ -1292,7 +1292,7 @@
       <g
          id="g199">
         <g
-           transform="translate(546.3833,175.66667)"
+           transform="translate(546.41669,175.99998)"
            id="g198">
           <path
              transform="scale(0.017,-0.017)"
@@ -1308,7 +1308,7 @@
       <g
          id="g201">
         <g
-           transform="translate(552.03333,175.73335)"
+           transform="translate(552.06671,175.76665)"
            id="g200">
           <path
              transform="scale(0.017,-0.017)"
@@ -1331,7 +1331,7 @@
       <g
          id="g205">
         <g
-           transform="translate(51.733337,259.66667)"
+           transform="translate(51.766663,259.99998)"
            id="g204">
           <path
              transform="scale(0.017,-0.017)"
@@ -1347,7 +1347,7 @@
       <g
          id="g207">
         <g
-           transform="translate(58.333374,259.73335)"
+           transform="translate(58.366699,259.76665)"
            id="g206">
           <path
              transform="scale(0.017,-0.017)"
@@ -1363,7 +1363,7 @@
       <g
          id="g209">
         <g
-           transform="translate(63.983337,259.66667)"
+           transform="translate(64.016663,259.99998)"
            id="g208">
           <path
              transform="scale(0.017,-0.017)"
@@ -1379,7 +1379,7 @@
       <g
          id="g211">
         <g
-           transform="translate(69.633362,259.73335)"
+           transform="translate(69.666687,259.76665)"
            id="g210">
           <path
              transform="scale(0.017,-0.017)"
@@ -1402,7 +1402,7 @@
       <g
          id="g215">
         <g
-           transform="translate(127.73334,262.56667)"
+           transform="translate(127.76666,263.34999)"
            id="g214">
           <path
              transform="scale(0.017,-0.017)"
@@ -1430,8 +1430,8 @@
                   <g
                      id="g216">
                     <text
-                       x="135.33337"
-                       y="245.09999"
+                       x="135.3667"
+                       y="245.7"
                        style="font-style:normal;font-weight:400;font-size:10.5px;font-family:Arial, Helvetica, sans-serif;dominant-baseline:text-before-edge;white-space:pre;fill:#667982;fill-opacity:1;stroke:none"
                        id="text215">SB</text>
                   </g>
@@ -1444,7 +1444,7 @@
       <g
          id="g224">
         <g
-           transform="translate(150.34998,262.63332)"
+           transform="translate(150.38336,263.11668)"
            id="g223">
           <path
              transform="scale(0.017,-0.017)"
@@ -1460,7 +1460,7 @@
       <g
          id="g226">
         <g
-           transform="translate(156,262.56667)"
+           transform="translate(156.03339,263.34999)"
            id="g225">
           <path
              transform="scale(0.017,-0.017)"
@@ -1476,7 +1476,7 @@
       <g
          id="g228">
         <g
-           transform="translate(161.65002,262.63332)"
+           transform="translate(161.68335,263.11668)"
            id="g227">
           <path
              transform="scale(0.017,-0.017)"
@@ -1499,7 +1499,7 @@
       <g
          id="g232">
         <g
-           transform="translate(228.73334,265.66667)"
+           transform="translate(228.76666,265.99998)"
            id="g231">
           <path
              transform="scale(0.017,-0.017)"
@@ -1515,7 +1515,7 @@
       <g
          id="g234">
         <g
-           transform="translate(237.54999,265.73335)"
+           transform="translate(237.58337,265.76665)"
            id="g233">
           <path
              transform="scale(0.017,-0.017)"
@@ -1531,7 +1531,7 @@
       <g
          id="g236">
         <g
-           transform="translate(243.20001,265.66667)"
+           transform="translate(243.23334,265.99998)"
            id="g235">
           <path
              transform="scale(0.017,-0.017)"
@@ -1547,7 +1547,7 @@
       <g
          id="g238">
         <g
-           transform="translate(248.84998,265.73335)"
+           transform="translate(248.88336,265.76665)"
            id="g237">
           <path
              transform="scale(0.017,-0.017)"
@@ -1570,7 +1570,7 @@
       <g
          id="g242">
         <g
-           transform="translate(326.73334,267.66667)"
+           transform="translate(326.76666,267.99998)"
            id="g241">
           <path
              transform="scale(0.017,-0.017)"
@@ -1586,7 +1586,7 @@
       <g
          id="g244">
         <g
-           transform="translate(335.1167,267.73335)"
+           transform="translate(335.15009,267.76665)"
            id="g243">
           <path
              transform="scale(0.017,-0.017)"
@@ -1602,7 +1602,7 @@
       <g
          id="g246">
         <g
-           transform="translate(340.76666,267.66667)"
+           transform="translate(340.79999,267.99998)"
            id="g245">
           <path
              transform="scale(0.017,-0.017)"
@@ -1618,7 +1618,7 @@
       <g
          id="g248">
         <g
-           transform="translate(346.41669,267.73335)"
+           transform="translate(346.45001,267.76665)"
            id="g247">
           <path
              transform="scale(0.017,-0.017)"
@@ -1641,7 +1641,7 @@
       <g
          id="g252">
         <g
-           transform="translate(510.73334,268.66667)"
+           transform="translate(510.76666,268.99998)"
            id="g251">
           <path
              transform="scale(0.017,-0.017)"
@@ -1669,8 +1669,8 @@
                   <g
                      id="g253">
                     <text
-                       x="522.54999"
-                       y="262.20001"
+                       x="522.58331"
+                       y="262.79999"
                        style="font-style:normal;font-weight:400;font-size:10.5px;font-family:Arial, Helvetica, sans-serif;dominant-baseline:text-before-edge;white-space:pre;fill:#667982;fill-opacity:1;stroke:none"
                        id="text252">Doppler</text>
                   </g>
@@ -1683,7 +1683,7 @@
       <g
          id="g261">
         <g
-           transform="translate(560.31665,268.73335)"
+           transform="translate(560.35004,268.76665)"
            id="g260">
           <path
              transform="scale(0.017,-0.017)"
@@ -1699,7 +1699,7 @@
       <g
          id="g263">
         <g
-           transform="translate(565.96667,268.66667)"
+           transform="translate(566.00006,268.99998)"
            id="g262">
           <path
              transform="scale(0.017,-0.017)"
@@ -1715,7 +1715,7 @@
       <g
          id="g265">
         <g
-           transform="translate(571.6167,268.73335)"
+           transform="translate(571.65009,268.76665)"
            id="g264">
           <path
              transform="scale(0.017,-0.017)"
@@ -1738,7 +1738,7 @@
       <g
          id="g269">
         <g
-           transform="translate(49.733337,57.666672)"
+           transform="translate(49.766663,58)"
            id="g268">
           <path
              transform="scale(0.017,-0.017)"
@@ -1775,7 +1775,7 @@
             <g
                id="g276">
               <g
-                 transform="translate(57.733337,341.91668)"
+                 transform="translate(49.766663,356.14998)"
                  id="g275">
                 <path
                    transform="scale(0.0204,-0.0204)"
@@ -1791,7 +1791,7 @@
             <g
                id="g278">
               <g
-                 transform="translate(68.31665,341.91668)"
+                 transform="translate(60.350037,356.14998)"
                  id="g277">
                 <path
                    transform="scale(0.0204,-0.0204)"
@@ -1807,7 +1807,7 @@
             <g
                id="g280">
               <g
-                 transform="translate(77.483337,341.91668)"
+                 transform="translate(69.516663,356.14998)"
                  id="g279">
                 <path
                    transform="scale(0.0204,-0.0204)"
@@ -1835,8 +1835,8 @@
                         <g
                            id="g281">
                           <text
-                             x="96.75"
-                             y="333.78333"
+                             x="88.783386"
+                             y="348.29999"
                              style="font-style:normal;font-weight:400;font-size:12.6px;font-family:Arial, Helvetica, sans-serif;dominant-baseline:text-before-edge;white-space:pre;fill:#667982;fill-opacity:1;stroke:none"
                              id="text280">GW</text>
                         </g>
@@ -1849,7 +1849,7 @@
             <g
                id="g289">
               <g
-                 transform="translate(119.66669,341.91668)"
+                 transform="translate(111.70001,356.14998)"
                  id="g288">
                 <path
                    transform="scale(0.0204,-0.0204)"
@@ -1865,11 +1865,11 @@
             <g
                id="g291">
               <g
-                 transform="translate(128.83337,341.91668)"
+                 transform="translate(120.8667,356.14998)"
                  id="g290">
                 <path
                    transform="scale(0.0204,-0.0204)"
-                   d="m 871,285 c 2,143 -117,189 -240,188 16,75 25,151 50,226 v 6 c -14,-5 -28,-12 -43,-21 L 603,473 C 433,474 279,367 276,185 273,37 391,-8 517,-16 l -39,-273 c 20,7 38,15 53,28 1,82 6,163 17,245 182,13 319,103 323,301 z M 788,273 C 786,130 700,11 550,6 l 76,443 C 736,447 790,380 788,273 Z M 598,449 519,5 c -115,9 -164,68 -162,182 3,149 88,257 241,262 z"
+                   d="m 432,-16 c 157,0 270,155 272,303 3,183 -239,220 -228,335 7,76 129,67 186,33 h 10 c -3,12 -6,26 -12,39 -95,21 -244,4 -255,-97 -7,-57 68,-104 110,-133 v -6 C 372,426 280,304 278,160 276,53 319,-16 432,-16 Z m 26,28 c -84,0 -104,87 -103,155 2,128 47,244 181,281 62,-49 94,-98 93,-179 C 627,174 576,12 458,12 Z m 447,461 c -30,0 -128,-65 -157,-84 v -17 h 14 c 16,12 41,29 62,29 58,0 51,-150 51,-190 0,-71 -4,-147 -6,-218 h 10 c 18,7 38,12 58,15 67,101 281,296 283,404 0,23 -11,40 -26,56 -23,-9 -50,-20 -72,-31 V 426 C 1187,336 1057,178 945,76 h -11 v 211 c 0,175 -6,186 -29,186 z"
                    stroke="#667982"
                    stroke-opacity="1"
                    stroke-width="8"
@@ -1893,10 +1893,10 @@
                         <g
                            id="g292">
                           <text
-                             x="148.09998"
-                             y="333.78333"
+                             x="146.83337"
+                             y="348.29999"
                              style="font-style:normal;font-weight:400;font-size:12.6px;font-family:Arial, Helvetica, sans-serif;dominant-baseline:text-before-edge;white-space:pre;fill:#667982;fill-opacity:1;stroke:none"
-                             id="text291">DS</text>
+                             id="text291">Doppler</text>
                         </g>
                       </g>
                     </g>
@@ -1917,7 +1917,7 @@
       <g
          id="g305">
         <g
-           transform="translate(257.73334,322.66667)"
+           transform="translate(257.76666,322.99998)"
            id="g304">
           <path
              transform="scale(0.017,-0.017)"
@@ -1939,7 +1939,7 @@
             <g
                id="g307">
               <g
-                 transform="translate(268.34998,325.73333)"
+                 transform="translate(268.38336,325.76668)"
                  id="g306">
                 <path
                    transform="scale(0.0119,-0.0119)"
@@ -1965,7 +1965,7 @@
       <g
          id="g314">
         <g
-           transform="translate(325.73334,334.66667)"
+           transform="translate(325.76666,334.99998)"
            id="g313">
           <path
              transform="scale(0.017,-0.017)"
@@ -1987,7 +1987,7 @@
             <g
                id="g316">
               <g
-                 transform="translate(334.95001,337.73333)"
+                 transform="translate(334.98334,337.76668)"
                  id="g315">
                 <path
                    transform="scale(0.0119,-0.0119)"
@@ -2013,7 +2013,7 @@
       <g
          id="g323">
         <g
-           transform="translate(58.733337,300.66667)"
+           transform="translate(58.766663,300.99998)"
            id="g322">
           <path
              transform="scale(0.017,-0.017)"
@@ -2035,7 +2035,7 @@
             <g
                id="g325">
               <g
-                 transform="translate(65.849976,303.90002)"
+                 transform="translate(65.883362,303.63332)"
                  id="g324">
                 <path
                    transform="scale(0.0119,-0.0119)"
@@ -2054,7 +2054,7 @@
       <g
          id="g330">
         <g
-           transform="translate(74.049988,300.73335)"
+           transform="translate(74.083374,300.76665)"
            id="g329">
           <path
              transform="scale(0.017,-0.017)"
@@ -2070,7 +2070,7 @@
       <g
          id="g332">
         <g
-           transform="translate(79.700012,300.66667)"
+           transform="translate(79.733337,300.99998)"
            id="g331">
           <path
              transform="scale(0.017,-0.017)"
@@ -2086,7 +2086,7 @@
       <g
          id="g334">
         <g
-           transform="translate(85.349976,300.73335)"
+           transform="translate(85.383362,300.76665)"
            id="g333">
           <path
              transform="scale(0.017,-0.017)"
@@ -2109,7 +2109,7 @@
       <g
          id="g338">
         <g
-           transform="translate(142.73334,304.41667)"
+           transform="translate(142.76666,304.74998)"
            id="g337">
           <path
              transform="scale(0.017,-0.017)"
@@ -2137,8 +2137,8 @@
                   <g
                      id="g339">
                     <text
-                       x="150.33337"
-                       y="286.09998"
+                       x="150.3667"
+                       y="286.70001"
                        style="font-style:normal;font-weight:400;font-size:10.5px;font-family:Arial, Helvetica, sans-serif;dominant-baseline:text-before-edge;white-space:pre;fill:#667982;fill-opacity:1;stroke:none"
                        id="text338">SB</text>
                   </g>
@@ -2154,7 +2154,7 @@
             <g
                id="g346">
               <g
-                 transform="translate(149.84998,309.30001)"
+                 transform="translate(149.88336,309.03335)"
                  id="g345">
                 <path
                    transform="scale(0.0119,-0.0119)"
@@ -2173,7 +2173,7 @@
       <g
          id="g351">
         <g
-           transform="translate(165.34998,304.48335)"
+           transform="translate(165.38336,304.51665)"
            id="g350">
           <path
              transform="scale(0.017,-0.017)"
@@ -2189,7 +2189,7 @@
       <g
          id="g353">
         <g
-           transform="translate(171,304.41667)"
+           transform="translate(171.03339,304.74998)"
            id="g352">
           <path
              transform="scale(0.017,-0.017)"
@@ -2205,7 +2205,7 @@
       <g
          id="g355">
         <g
-           transform="translate(176.65002,304.48335)"
+           transform="translate(176.68335,304.51665)"
            id="g354">
           <path
              transform="scale(0.017,-0.017)"
@@ -2228,7 +2228,7 @@
       <g
          id="g359">
         <g
-           transform="translate(228.73334,140.66667)"
+           transform="translate(228.76666,140.99998)"
            id="g358">
           <path
              transform="scale(0.017,-0.017)"
@@ -2250,7 +2250,7 @@
             <g
                id="g361">
               <g
-                 transform="translate(237.73334,143.73333)"
+                 transform="translate(237.76666,143.76668)"
                  id="g360">
                 <path
                    transform="scale(0.0119,-0.0119)"
@@ -2269,7 +2269,7 @@
       <g
          id="g366">
         <g
-           transform="translate(242.63336,140.73335)"
+           transform="translate(242.66669,140.76665)"
            id="g365">
           <path
              transform="scale(0.017,-0.017)"
@@ -2285,7 +2285,7 @@
       <g
          id="g368">
         <g
-           transform="translate(248.28333,140.66667)"
+           transform="translate(248.31671,140.99998)"
            id="g367">
           <path
              transform="scale(0.017,-0.017)"
@@ -2301,7 +2301,7 @@
       <g
          id="g370">
         <g
-           transform="translate(257.33337,140.66667)"
+           transform="translate(257.3667,140.99998)"
            id="g369">
           <path
              transform="scale(0.017,-0.017)"
@@ -2317,7 +2317,7 @@
       <g
          id="g372">
         <g
-           transform="translate(271.01666,140.66667)"
+           transform="translate(271.04999,140.99998)"
            id="g371">
           <path
              transform="scale(0.017,-0.017)"
@@ -2339,7 +2339,7 @@
             <g
                id="g374">
               <g
-                 transform="translate(280.01666,143.90002)"
+                 transform="translate(280.04999,143.63332)"
                  id="g373">
                 <path
                    transform="scale(0.0119,-0.0119)"
@@ -2358,7 +2358,7 @@
       <g
          id="g379">
         <g
-           transform="translate(288.21667,140.73335)"
+           transform="translate(288.25006,140.76665)"
            id="g378">
           <path
              transform="scale(0.017,-0.017)"
@@ -2381,7 +2381,7 @@
       <g
          id="g383">
         <g
-           transform="translate(274.73334,219.66667)"
+           transform="translate(274.76666,219.99998)"
            id="g382">
           <path
              transform="scale(0.017,-0.017)"
@@ -2403,7 +2403,7 @@
             <g
                id="g385">
               <g
-                 transform="translate(283.09998,222.73333)"
+                 transform="translate(283.13336,222.76668)"
                  id="g384">
                 <path
                    transform="scale(0.0119,-0.0119)"
@@ -2422,7 +2422,7 @@
       <g
          id="g390">
         <g
-           transform="translate(288,219.73335)"
+           transform="translate(288.03339,219.76665)"
            id="g389">
           <path
              transform="scale(0.017,-0.017)"
@@ -2438,7 +2438,7 @@
       <g
          id="g392">
         <g
-           transform="translate(293.65002,219.66667)"
+           transform="translate(293.68329,219.99998)"
            id="g391">
           <path
              transform="scale(0.017,-0.017)"
@@ -2454,7 +2454,7 @@
       <g
          id="g394">
         <g
-           transform="translate(302.70001,219.66667)"
+           transform="translate(302.73334,219.99998)"
            id="g393">
           <path
              transform="scale(0.017,-0.017)"
@@ -2470,7 +2470,7 @@
       <g
          id="g396">
         <g
-           transform="translate(316.38336,219.66667)"
+           transform="translate(316.41669,219.99998)"
            id="g395">
           <path
              transform="scale(0.017,-0.017)"
@@ -2492,7 +2492,7 @@
             <g
                id="g398">
               <g
-                 transform="translate(325.38336,222.90002)"
+                 transform="translate(325.41669,222.63332)"
                  id="g397">
                 <path
                    transform="scale(0.0119,-0.0119)"
@@ -2511,7 +2511,7 @@
       <g
          id="g403">
         <g
-           transform="translate(333.58337,219.73335)"
+           transform="translate(333.61664,219.76665)"
            id="g402">
           <path
              transform="scale(0.017,-0.017)"
@@ -2534,7 +2534,7 @@
       <g
          id="g407">
         <g
-           transform="translate(132.73334,133.66667)"
+           transform="translate(132.76666,133.99998)"
            id="g406">
           <path
              transform="scale(0.017,-0.017)"
@@ -2556,7 +2556,7 @@
             <g
                id="g409">
               <g
-                 transform="translate(141.73334,136.73333)"
+                 transform="translate(141.76666,136.76668)"
                  id="g408">
                 <path
                    transform="scale(0.0119,-0.0119)"
@@ -2575,7 +2575,7 @@
       <g
          id="g414">
         <g
-           transform="translate(146.04999,133.73335)"
+           transform="translate(146.08337,133.76665)"
            id="g413">
           <path
              transform="scale(0.017,-0.017)"
@@ -2591,7 +2591,7 @@
       <g
          id="g416">
         <g
-           transform="translate(151.70001,133.66667)"
+           transform="translate(151.73334,133.99998)"
            id="g415">
           <path
              transform="scale(0.017,-0.017)"
@@ -2607,7 +2607,7 @@
       <g
          id="g418">
         <g
-           transform="translate(157.34998,133.73335)"
+           transform="translate(157.38336,133.76665)"
            id="g417">
           <path
              transform="scale(0.017,-0.017)"
@@ -2630,7 +2630,7 @@
       <g
          id="g422">
         <g
-           transform="translate(181.73334,202.66667)"
+           transform="translate(181.76666,202.99998)"
            id="g421">
           <path
              transform="scale(0.017,-0.017)"
@@ -2652,7 +2652,7 @@
             <g
                id="g424">
               <g
-                 transform="translate(190.09998,205.73333)"
+                 transform="translate(190.13336,205.76668)"
                  id="g423">
                 <path
                    transform="scale(0.0119,-0.0119)"
@@ -2671,7 +2671,7 @@
       <g
          id="g429">
         <g
-           transform="translate(194.41669,202.73335)"
+           transform="translate(194.45001,202.76665)"
            id="g428">
           <path
              transform="scale(0.017,-0.017)"
@@ -2687,7 +2687,7 @@
       <g
          id="g431">
         <g
-           transform="translate(200.06665,202.66667)"
+           transform="translate(200.10004,202.99998)"
            id="g430">
           <path
              transform="scale(0.017,-0.017)"
@@ -2703,7 +2703,7 @@
       <g
          id="g433">
         <g
-           transform="translate(205.71667,202.73335)"
+           transform="translate(205.75,202.76665)"
            id="g432">
           <path
              transform="scale(0.017,-0.017)"
@@ -2726,7 +2726,7 @@
       <g
          id="g437">
         <g
-           transform="translate(252.73334,361.6667)"
+           transform="translate(252.76666,361.99998)"
            id="g436">
           <path
              transform="scale(0.017,-0.017)"
@@ -2749,7 +2749,7 @@
       <g
          id="g441">
         <g
-           transform="translate(368.73334,365.6667)"
+           transform="translate(368.76666,365.99998)"
            id="g440">
           <path
              transform="scale(0.017,-0.017)"
