@@ -26,13 +26,13 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.81824845"
-     inkscape:cx="702.72055"
-     inkscape:cy="1387.7203"
-     inkscape:window-width="1920"
-     inkscape:window-height="1051"
-     inkscape:window-x="3191"
-     inkscape:window-y="-9"
+     inkscape:zoom="1.6364969"
+     inkscape:cx="637.33699"
+     inkscape:cy="1476.6297"
+     inkscape:window-width="3840"
+     inkscape:window-height="2054"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer2">
     <inkscape:page
@@ -57,6 +57,30 @@
   </sodipodi:namedview>
   <defs
      id="defs1">
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect2"
+       is_visible="true"
+       lpeversion="1.3"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false"
+       uniform="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1"
+       is_visible="true"
+       lpeversion="1.3"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false"
+       uniform="false" />
     <inkscape:path-effect
        effect="bspline"
        id="path-effect161"
@@ -14264,5 +14288,19 @@
        inkscape:path-effect="#path-effect161"
        inkscape:original-d="m 120.12575,370.40121 c 1.4012,-0.43114 2.80239,-0.86228 4.20359,-1.29342 1.50901,-2.69467 3.01797,-5.38924 4.52695,-8.08384 3.28749,-7.76062 6.57485,-15.52096 9.86227,-23.28142 4.8504,-3.07192 9.7006,-6.14374 14.5509,-9.21557 10.23973,-2.4791 20.47904,-4.95811 30.71857,-7.43715 8.19178,0.10779 16.38323,0.21558 24.57484,0.32337 1.40123,-0.10779 2.8024,-0.21558 4.2036,-0.32337"
        transform="matrix(0.99912772,0,0,0.98851913,-0.29915361,3.6839118)" />
+    <path
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.185106;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle-3)"
+       d="m 281.00509,305.01283 c 0,2.09592 0,4.19184 -0.22865,6.76413 -0.22866,2.5723 -0.68594,5.62083 -1.71486,8.99338 -1.02892,3.37255 -2.62941,7.06891 -4.91589,9.73646 -2.28649,2.66755 -5.25881,4.30615 -10.613,6.42114 -5.35419,2.115 -13.08987,4.70626 -20.42564,7.04989 -7.33577,2.34363 -14.27121,4.43951 -20.50185,6.07814 -6.23064,1.63864 -11.75612,2.81995 -16.29096,4.02036 -4.53483,1.2004 -8.07876,2.41981 -11.62276,3.63925"
+       id="path1"
+       inkscape:path-effect="#path-effect1"
+       inkscape:original-d="m 281.00509,305.01283 c 0,2.09592 0,4.19184 0,6.28777 -0.4573,3.04866 -0.91458,6.09719 -1.37189,9.1458 -1.60054,3.69649 -3.20103,7.39285 -4.80155,11.08929 -2.97244,1.63867 -5.94477,3.27726 -8.91715,4.91588 -7.736,2.59136 -15.47168,5.18263 -23.20751,7.77394 -6.93571,2.09595 -13.87115,4.19182 -20.80672,6.28774 -5.52571,1.18136 -11.05119,2.36267 -16.57678,3.54401 -3.54408,1.21947 -7.08801,2.43888 -10.63201,3.65832"
+       transform="matrix(0.99669265,0,0,1.0021728,0.92867577,-0.66319645)" />
+    <path
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.185832;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle-3)"
+       d="m 283.40587,405.15947 c -0.60972,-5.29693 -1.21945,-10.59389 -2.74377,-15.31927 -1.52433,-4.72538 -3.96318,-8.87902 -7.45006,-11.75615 -3.48688,-2.87714 -8.0216,-4.47763 -15.49078,-6.09721 -7.46918,-1.61959 -17.87233,-3.25818 -25.74159,-2.74371 -7.86927,0.51448 -13.20422,3.18196 -17.89149,5.62086 -4.68726,2.43891 -8.72659,4.64911 -11.92764,5.69706 -3.20106,1.04796 -5.56369,0.93364 -7.92635,0.81931"
+       id="path2"
+       inkscape:path-effect="#path-effect2"
+       inkscape:original-d="m 283.40587,405.15947 c -0.60973,-5.29693 -1.21947,-10.59389 -1.82917,-15.89085 -2.43893,-4.1538 -4.87778,-8.30744 -7.31666,-12.46116 -4.53488,-1.60054 -9.0696,-3.20103 -13.60439,-4.80155 -10.40357,-1.63865 -20.80672,-3.27724 -31.21009,-4.91588 -5.33516,2.66758 -10.67011,5.33506 -16.00517,8.00259 -4.03948,2.21027 -8.0788,4.42047 -12.1182,6.63072 -2.36271,-0.11433 -4.72534,-0.22865 -7.088,-0.34298"
+       transform="matrix(0.99106312,0,0,1,2.5319611,0)" />
   </g>
 </svg>
