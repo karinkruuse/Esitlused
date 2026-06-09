@@ -27,14 +27,14 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="1.0000001"
-     inkscape:cx="353.99998"
-     inkscape:cy="3065.4998"
+     inkscape:cx="353.99996"
+     inkscape:cy="3145.4997"
      inkscape:window-width="3840"
      inkscape:window-height="2054"
      inkscape:window-x="-11"
      inkscape:window-y="-11"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg1"
+     inkscape:current-layer="g74"
      showguides="true"
      showgrid="false">
     <inkscape:page
@@ -45,7 +45,7 @@
        id="page2"
        margin="0 0 0 0"
        bleed="0"
-       inkscape:export-filename="miniLISAarm.png"
+       inkscape:export-filename="LISAarm-analysis.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300" />
     <sodipodi:guide
@@ -82,7 +82,7 @@
        id="page58"
        margin="0 0 0 0"
        bleed="0"
-       inkscape:export-filename="miniLISAarm.pdf"
+       inkscape:export-filename="LISAarm-analysis.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300" />
     <inkscape:page
@@ -7709,7 +7709,7 @@
        style="display:inline">
       <text
          xml:space="preserve"
-         style="font-size:4.58611px;font-family:Arial;-inkscape-font-specification:Arial;fill:#969696;stroke-width:0.25;stroke-linecap:square;stroke-dasharray:none"
+         style="font-size:4.58611px;font-family:Arial;-inkscape-font-specification:Arial;display:none;fill:#969696;stroke-width:0.25;stroke-linecap:square;stroke-dasharray:none"
          x="43.127087"
          y="638.4151"
          id="text72-8"><tspan
@@ -7720,7 +7720,7 @@
            y="638.4151">A'</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.5861px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#000000;fill-opacity:1;stroke-width:0.25;stroke-linecap:square;stroke-dasharray:none"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.5861px;font-family:Arial;-inkscape-font-specification:'Arial Bold';display:none;fill:#000000;fill-opacity:1;stroke-width:0.25;stroke-linecap:square;stroke-dasharray:none"
          x="-26.987497"
          y="638.4151"
          id="text74"><tspan
@@ -7731,7 +7731,7 @@
            y="638.4151">C</tspan></text>
       <text
          xml:space="preserve"
-         style="font-size:4.58611px;font-family:Arial;-inkscape-font-specification:Arial;fill:#969696;stroke-width:0.25;stroke-linecap:square;stroke-dasharray:none"
+         style="font-size:4.58611px;font-family:Arial;-inkscape-font-specification:Arial;display:none;fill:#969696;stroke-width:0.25;stroke-linecap:square;stroke-dasharray:none"
          x="8.0697908"
          y="595.57709"
          id="text72"><tspan
@@ -7742,7 +7742,7 @@
            y="595.57709">A</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.5861px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#000000;fill-opacity:1;stroke-width:0.25;stroke-linecap:square;stroke-dasharray:none"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.5861px;font-family:Arial;-inkscape-font-specification:'Arial Bold';display:none;fill:#000000;fill-opacity:1;stroke-width:0.25;stroke-linecap:square;stroke-dasharray:none"
          x="17.859373"
          y="638.4151"
          id="text73"><tspan
