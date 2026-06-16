@@ -26,13 +26,13 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="2.0000002"
-     inkscape:cx="338.99997"
-     inkscape:cy="312.24997"
-     inkscape:window-width="3840"
-     inkscape:window-height="2054"
-     inkscape:window-x="-11"
-     inkscape:window-y="-11"
+     inkscape:zoom="1.0000001"
+     inkscape:cx="546.99995"
+     inkscape:cy="67.499993"
+     inkscape:window-width="2560"
+     inkscape:window-height="1417"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg1"
      showguides="true"
@@ -45,7 +45,7 @@
        id="page2"
        margin="0"
        bleed="0"
-       inkscape:export-filename="miniLISAarm_new.png"
+       inkscape:export-filename="miniLISAarmGHz.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300" />
     <inkscape:grid
@@ -614,16 +614,6 @@
          d="M 5.77,0 -2.88,5 V -5 Z"
          id="path135-31-79-6-0-4-3" />
     </marker>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient30"
-       id="linearGradient2"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.8,0,0,0.8,-34.8284,-60.85844)"
-       x1="43.5355"
-       y1="107.446"
-       x2="43.5355"
-       y2="85.247253" />
   </defs>
   <g
      id="g1-3"
@@ -796,7 +786,7 @@
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cc" />
   <path
-     style="display:inline;fill:none;stroke:#2d13b4;stroke-width:0.93;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+     style="display:inline;fill:none;stroke:#2d13b4;stroke-width:0.93;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.99000001;enable-background:new"
      d="m 202.47532,77.84416 -171.211125,-1e-5"
      id="path12-5-3"
      inkscape:connector-curvature="0"
@@ -1453,92 +1443,6 @@
        style="fill:#99acba;fill-opacity:1;stroke:none;stroke-width:0.544465;stroke-dasharray:none;stroke-opacity:1" />
     <rect
        id="rect91"
-       height="4.2519999"
-       width="31.181"
-       i:knockout="Off"
-       y="26.763159"
-       x="0.37450027"
-       style="fill:#99acba;fill-opacity:1;stroke:none;stroke-width:0.544465;stroke-dasharray:none;stroke-opacity:1" />
-  </g>
-  <g
-     id="use49-4"
-     transform="matrix(0.27811518,0,0,0.27290889,48.935669,73.772044)"
-     style="display:inline;stroke-width:1.18871"
-     inkscape:label="OG EOM">
-    <linearGradient
-       gradientTransform="matrix(0.8,0,0,0.8,-35.0284,-61.5817)"
-       y2="86.302696"
-       x2="63.7393"
-       y1="107.5635"
-       x1="63.7393"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient1">
-      <stop
-         id="stop82-8"
-         style="stop-color:#FFFFFF"
-         offset="0" />
-      <stop
-         id="stop83-0"
-         style="stop-color:#FFFF99"
-         offset="0.2501" />
-      <stop
-         id="stop84-5"
-         style="stop-color:#FFFF58"
-         offset="0.428" />
-      <stop
-         id="stop85-9"
-         style="stop-color:#FFFF3E"
-         offset="0.5112" />
-      <stop
-         id="stop86-8"
-         style="stop-color:#FFFF53"
-         offset="0.581" />
-      <stop
-         id="stop87-3"
-         style="stop-color:#FFFF89"
-         offset="0.7253" />
-      <stop
-         id="stop88-9"
-         style="stop-color:#FFFFE0"
-         offset="0.9301" />
-      <stop
-         id="stop89-8"
-         style="stop-color:#FFFFFF"
-         offset="1" />
-      <a:midPointStop
-         style="stop-color:#FFFFFF"
-         offset="0" />
-      <a:midPointStop
-         style="stop-color:#FFFFFF"
-         offset="0.4636" />
-      <a:midPointStop
-         style="stop-color:#FFFF3E"
-         offset="0.5112" />
-      <a:midPointStop
-         style="stop-color:#FFFF3E"
-         offset="0.5441" />
-      <a:midPointStop
-         style="stop-color:#FFFFFF"
-         offset="1" />
-    </linearGradient>
-    <rect
-       id="rect89-3"
-       height="17.009001"
-       width="31.18"
-       i:knockout="Off"
-       y="7.7143598"
-       x="0.375"
-       style="fill:url(#linearGradient2);fill-opacity:1;stroke:#323232;stroke-width:0.544465;stroke-dasharray:none;stroke-opacity:1" />
-    <rect
-       id="rect90-5"
-       height="4.2519999"
-       width="31.181"
-       i:knockout="Off"
-       y="1.4225619"
-       x="0.37450027"
-       style="fill:#99acba;fill-opacity:1;stroke:none;stroke-width:0.544465;stroke-dasharray:none;stroke-opacity:1" />
-    <rect
-       id="rect91-1"
        height="4.2519999"
        width="31.181"
        i:knockout="Off"

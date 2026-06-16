@@ -7,11 +7,34 @@
    viewBox="0 0 297 210.00002"
    version="1.1"
    id="svg1"
+   sodipodi:docname="LISAarmd-analysis.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
    xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.36569515"
+     inkscape:cx="360.95639"
+     inkscape:cy="611.1648"
+     inkscape:window-width="2560"
+     inkscape:window-height="1417"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
   <defs
      id="defs1">
     <linearGradient
@@ -675,7 +698,7 @@
   </defs>
   <g
      id="g71"
-     transform="translate(-35.454166,-127.52916)">
+     transform="translate(78.860085,-742.51089)">
     <g
        id="g1-3"
        transform="translate(-83.203212,371.89368)"
@@ -1603,7 +1626,7 @@
     <polygon
        style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#323232;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
        i:knockout="Off"
-       points="0.375,0.65 32.266,19.062 0.375,37.473 "
+       points="0.375,37.473 0.375,0.65 32.266,19.062 "
        id="polygon4687"
        transform="matrix(0,0.26458333,-0.26458333,0,174.40304,774.52143)" />
     <g
@@ -1717,7 +1740,7 @@
   </g>
   <g
      id="g70"
-     transform="translate(-22.489585,180.97499)">
+     transform="translate(91.824666,-434.00674)">
     <text
        xml:space="preserve"
        style="font-size:3.175px;display:inline;fill:#667982;fill-opacity:1;stroke:#000000;stroke-width:0.485199;stroke-opacity:1"
@@ -1779,7 +1802,7 @@
     <polygon
        style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#323232;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
        i:knockout="Off"
-       points="0.375,37.473 0.375,0.65 32.266,19.062 "
+       points="32.266,19.062 0.375,37.473 0.375,0.65 "
        id="polygon4687-1"
        transform="matrix(0,0.26458333,-0.26458333,0,178.3466,611.33992)" />
     <text
