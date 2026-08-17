@@ -26,13 +26,13 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.96075175"
-     inkscape:cx="4164.4473"
-     inkscape:cy="2471.5021"
-     inkscape:window-width="2560"
-     inkscape:window-height="1417"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:zoom="2.7174163"
+     inkscape:cx="2458.2174"
+     inkscape:cy="1569.6896"
+     inkscape:window-width="3840"
+     inkscape:window-height="2054"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg1"
      showguides="false"
@@ -16158,18 +16158,18 @@
   <rect
      style="fill:#dae1e8;fill-opacity:0.298039;stroke:#000000;stroke-width:0.25;stroke-linecap:square;stroke-opacity:1"
      id="rect18"
-     width="46.95966"
+     width="42.578201"
      height="51.498875"
-     x="640.90802"
+     x="643.34216"
      y="396.80902" />
   <rect
      style="fill:#dae1e8;fill-opacity:0.298039;stroke:#000000;stroke-width:0.25;stroke-linecap:square;stroke-opacity:1"
      id="rect18-6"
-     width="46.95966"
+     width="44.622883"
      height="51.498875"
-     x="313.15024"
-     y="588.15674"
-     transform="rotate(-30)" />
+     x="-358.51993"
+     y="-639.41211"
+     transform="rotate(150)" />
   <rect
      style="fill:#dae1e8;fill-opacity:0.298039;stroke:#000000;stroke-width:0.25;stroke-linecap:square;stroke-opacity:1"
      id="rect18-1"
@@ -16904,7 +16904,7 @@
      sodipodi:nodetypes="ccccccc" />
   <g
      id="g2-3-3-4"
-     transform="matrix(-1,0,0,1,796.37119,25.752682)"
+     transform="matrix(-1,0,0,1,799.54621,22.57768)"
      style="display:inline">
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:#323232;stroke-width:0.15;stroke-linecap:square;stroke-opacity:1"
@@ -16934,7 +16934,7 @@
   </g>
   <g
      id="g2-3-3-4-9"
-     transform="matrix(-1,0,0,1,825.14201,25.752682)"
+     transform="matrix(-1,0,0,1,822.49616,22.57768)"
      style="display:inline">
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:#323232;stroke-width:0.15;stroke-linecap:square;stroke-opacity:1"
@@ -16963,135 +16963,9 @@
     </g>
   </g>
   <g
-     id="g171"
-     transform="translate(-0.07865176,32.77012)">
-    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:#323232;stroke-width:0.15;stroke-dasharray:none;stroke-opacity:1"
-       id="rect25-2"
-       width="10.919991"
-       height="6.8525786"
-       x="-655.48572"
-       y="-412.83838"
-       transform="scale(-1)" />
-    <text
-       xml:space="preserve"
-       style="font-size:4.36653px;fill:#667982;fill-opacity:1;stroke:#000000;stroke-width:0.485199;stroke-opacity:1"
-       x="645.24982"
-       y="410.97491"
-       id="text25-6"><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.36653px;font-family:Arial;-inkscape-font-specification:Arial;fill:#323232;fill-opacity:1;stroke:none;stroke-width:0.4852"
-         x="645.24982"
-         y="410.97491"
-         id="tspan25-7"
-         rotate="0 0 0 0">DAC</tspan></text>
-  </g>
-  <g
-     id="g171-6"
-     transform="translate(28.692202,32.77012)">
-    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:#323232;stroke-width:0.15;stroke-dasharray:none;stroke-opacity:1"
-       id="rect25-2-1"
-       width="10.919991"
-       height="6.8525786"
-       x="-655.48572"
-       y="-412.83838"
-       transform="scale(-1)" />
-    <text
-       xml:space="preserve"
-       style="font-size:4.36653px;fill:#667982;fill-opacity:1;stroke:#000000;stroke-width:0.485199;stroke-opacity:1"
-       x="645.24982"
-       y="410.97491"
-       id="text25-6-0"><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.36653px;font-family:Arial;-inkscape-font-specification:Arial;fill:#323232;fill-opacity:1;stroke:none;stroke-width:0.4852"
-         x="645.24982"
-         y="410.97491"
-         id="tspan25-7-2"
-         rotate="0 0 0 0">DAC</tspan></text>
-  </g>
-  <g
-     id="use20-6-7"
-     transform="matrix(-1.2377548,0,0,-1.2377548,839.69849,555.90378)"
-     style="display:inline;stroke-width:1.0002;stroke-dasharray:none"
-     inkscape:label="ADC original">
-    <rect
-       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#323232;stroke-width:0.121187;stroke-dasharray:none;stroke-opacity:1"
-       id="rect23-0-1"
-       width="8.8224192"
-       height="5.5362973"
-       x="137.53268"
-       y="100.18114" />
-    <text
-       xml:space="preserve"
-       style="font-size:3.52778px;display:inline;fill:#667982;fill-opacity:1;stroke:#000000;stroke-width:1.0002;stroke-dasharray:none;stroke-opacity:1"
-       x="-145.67494"
-       y="-101.68665"
-       id="text23-9-7"
-       transform="scale(-1)"><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial;fill:#323232;fill-opacity:1;stroke:none;stroke-width:1.0002;stroke-dasharray:none"
-         x="-145.67494"
-         y="-101.68665"
-         id="tspan23-2-9"
-         rotate="0 0 0 0">ADC</tspan></text>
-  </g>
-  <g
-     id="use20-6-7-9"
-     transform="matrix(-1.2377548,0,0,-1.2377548,825.63882,531.45192)"
-     style="display:inline;stroke-width:1.0002;stroke-dasharray:none"
-     inkscape:label="ADC original">
-    <rect
-       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#323232;stroke-width:0.121187;stroke-dasharray:none;stroke-opacity:1"
-       id="rect23-0-1-2"
-       width="8.8224192"
-       height="5.5362973"
-       x="137.53268"
-       y="100.18114" />
-    <text
-       xml:space="preserve"
-       style="font-size:3.52778px;display:inline;fill:#667982;fill-opacity:1;stroke:#000000;stroke-width:1.0002;stroke-dasharray:none;stroke-opacity:1"
-       x="-145.67494"
-       y="-101.68665"
-       id="text23-9-7-2"
-       transform="scale(-1)"><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial;fill:#323232;fill-opacity:1;stroke:none;stroke-width:1.0002;stroke-dasharray:none"
-         x="-145.67494"
-         y="-101.68665"
-         id="tspan23-2-9-8"
-         rotate="0 0 0 0">ADC</tspan></text>
-  </g>
-  <g
-     id="use20-6-7-4"
-     transform="matrix(-1.2377548,0,0,-1.2377548,854.40964,531.45192)"
-     style="display:inline;stroke-width:1.0002;stroke-dasharray:none"
-     inkscape:label="ADC original">
-    <rect
-       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#323232;stroke-width:0.121187;stroke-dasharray:none;stroke-opacity:1"
-       id="rect23-0-1-8"
-       width="8.8224192"
-       height="5.5362973"
-       x="137.53268"
-       y="100.18114" />
-    <text
-       xml:space="preserve"
-       style="font-size:3.52778px;display:inline;fill:#667982;fill-opacity:1;stroke:#000000;stroke-width:1.0002;stroke-dasharray:none;stroke-opacity:1"
-       x="-145.67494"
-       y="-101.68665"
-       id="text23-9-7-4"
-       transform="scale(-1)"><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial;fill:#323232;fill-opacity:1;stroke:none;stroke-width:1.0002;stroke-dasharray:none"
-         x="-145.67494"
-         y="-101.68665"
-         id="tspan23-2-9-7"
-         rotate="0 0 0 0">ADC</tspan></text>
-  </g>
-  <g
      style="display:inline;stroke-width:1.04332;enable-background:new"
      id="use23-4"
-     transform="matrix(-0.25359814,0,0,0.25359814,682.4075,424.78847)"
+     transform="matrix(-0.25359814,0,0,0.25359814,679.76165,424.78847)"
      inkscape:label="OG mixer">
     <radialGradient
        id="radialGradient49-0"
@@ -17199,7 +17073,7 @@
   </g>
   <a
      id="a3-9"
-     transform="matrix(-1,0,0,1,1331.4243,403.32652)">
+     transform="matrix(-1,0,0,1,1334.5995,403.32652)">
     <g
        style="display:inline;stroke-width:1.04332;enable-background:new"
        id="use23-3-7"
@@ -17776,131 +17650,6 @@
            id="path273-9-9-3-2-9" />
       </g>
     </g>
-  </g>
-  <g
-     id="g171-9-8"
-     transform="rotate(150,635.03844,367.77393)">
-    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:#323232;stroke-width:0.15;stroke-dasharray:none;stroke-opacity:1"
-       id="rect25-2-6-0"
-       width="10.919991"
-       height="6.8525786"
-       x="-655.48572"
-       y="-412.83838"
-       transform="scale(-1)" />
-    <text
-       xml:space="preserve"
-       style="font-size:4.36653px;fill:#667982;fill-opacity:1;stroke:#000000;stroke-width:0.485199;stroke-opacity:1"
-       x="-654.80164"
-       y="-407.84927"
-       id="text25-6-5-6"
-       transform="scale(-1)"><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.36653px;font-family:Arial;-inkscape-font-specification:Arial;fill:#323232;fill-opacity:1;stroke:none;stroke-width:0.4852"
-         x="-654.80164"
-         y="-407.84927"
-         id="tspan25-7-7-7"
-         rotate="0 0 0 0">DAC</tspan></text>
-  </g>
-  <g
-     id="g171-6-8-7"
-     transform="rotate(150,620.65301,371.62848)">
-    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:#323232;stroke-width:0.15;stroke-dasharray:none;stroke-opacity:1"
-       id="rect25-2-1-7-2"
-       width="10.919991"
-       height="6.8525786"
-       x="-655.48572"
-       y="-412.83838"
-       transform="scale(-1)" />
-    <text
-       xml:space="preserve"
-       style="font-size:4.36653px;fill:#667982;fill-opacity:1;stroke:#000000;stroke-width:0.485199;stroke-opacity:1"
-       x="-654.80164"
-       y="-407.84927"
-       id="text25-6-0-5-2"
-       transform="scale(-1)"><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.36653px;font-family:Arial;-inkscape-font-specification:Arial;fill:#323232;fill-opacity:1;stroke:none;stroke-width:0.4852"
-         x="-654.80164"
-         y="-407.84927"
-         id="tspan25-7-2-3-2"
-         rotate="0 0 0 0">DAC</tspan></text>
-  </g>
-  <g
-     id="use20-6-7-0-0"
-     transform="matrix(1.0719271,-0.6188774,0.6188774,1.0719271,380.04969,335.59792)"
-     style="display:inline;stroke-width:1.0002;stroke-dasharray:none"
-     inkscape:label="ADC original">
-    <rect
-       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#323232;stroke-width:0.121187;stroke-dasharray:none;stroke-opacity:1"
-       id="rect23-0-1-9-0"
-       width="8.8224192"
-       height="5.5362973"
-       x="137.53268"
-       y="100.18114" />
-    <text
-       xml:space="preserve"
-       style="font-size:3.52778px;display:inline;fill:#667982;fill-opacity:1;stroke:#000000;stroke-width:1.0002;stroke-dasharray:none;stroke-opacity:1"
-       x="138.21286"
-       y="104.21191"
-       id="text23-9-7-6-7"><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial;fill:#323232;fill-opacity:1;stroke:none;stroke-width:1.0002;stroke-dasharray:none"
-         x="138.21286"
-         y="104.21191"
-         id="tspan23-2-9-1-0"
-         rotate="0 0 0 0">ADC</tspan></text>
-  </g>
-  <g
-     id="use20-6-7-9-6-4"
-     transform="matrix(1.0719271,-0.6188774,0.6188774,1.0719271,404.45164,349.74402)"
-     style="display:inline;stroke-width:1.0002;stroke-dasharray:none"
-     inkscape:label="ADC original">
-    <rect
-       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#323232;stroke-width:0.121187;stroke-dasharray:none;stroke-opacity:1"
-       id="rect23-0-1-2-0-9"
-       width="8.8224192"
-       height="5.5362973"
-       x="137.53268"
-       y="100.18114" />
-    <text
-       xml:space="preserve"
-       style="font-size:3.52778px;display:inline;fill:#667982;fill-opacity:1;stroke:#000000;stroke-width:1.0002;stroke-dasharray:none;stroke-opacity:1"
-       x="138.21286"
-       y="104.21191"
-       id="text23-9-7-2-4-4"><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial;fill:#323232;fill-opacity:1;stroke:none;stroke-width:1.0002;stroke-dasharray:none"
-         x="138.21286"
-         y="104.21191"
-         id="tspan23-2-9-8-6-3"
-         rotate="0 0 0 0">ADC</tspan></text>
-  </g>
-  <g
-     id="use20-6-7-4-0-0"
-     transform="matrix(1.0719271,-0.6188774,0.6188774,1.0719271,379.53538,364.12942)"
-     style="display:inline;stroke-width:1.0002;stroke-dasharray:none"
-     inkscape:label="ADC original">
-    <rect
-       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#323232;stroke-width:0.121187;stroke-dasharray:none;stroke-opacity:1"
-       id="rect23-0-1-8-7-6"
-       width="8.8224192"
-       height="5.5362973"
-       x="137.53268"
-       y="100.18114" />
-    <text
-       xml:space="preserve"
-       style="font-size:3.52778px;display:inline;fill:#667982;fill-opacity:1;stroke:#000000;stroke-width:1.0002;stroke-dasharray:none;stroke-opacity:1"
-       x="138.21286"
-       y="104.21191"
-       id="text23-9-7-4-9-8"><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial;fill:#323232;fill-opacity:1;stroke:none;stroke-width:1.0002;stroke-dasharray:none"
-         x="138.21286"
-         y="104.21191"
-         id="tspan23-2-9-7-1-1"
-         rotate="0 0 0 0">ADC</tspan></text>
   </g>
   <g
      style="display:inline;stroke-width:1.04332;enable-background:new"
@@ -19137,28 +18886,25 @@
        x="0.37450027"
        style="fill:#99acba;fill-opacity:1;stroke:none;stroke-width:0.631632;stroke-dasharray:none;stroke-opacity:1" />
   </g>
-  <g
-     id="g15">
-    <ellipse
-       style="display:inline;fill:#d11723;fill-opacity:0.0286123;stroke:#323232;stroke-width:0.15;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
-       id="path74-0-0-5"
-       cx="665.64325"
-       cy="-502.49777"
-       rx="38.658493"
-       ry="38.575886"
-       transform="scale(1,-1)" />
-    <text
-       xml:space="preserve"
-       style="font-size:4.36653px;display:inline;fill:#d11723;fill-opacity:1;stroke:#000000;stroke-width:0.485199;stroke-opacity:1"
-       id="text27-0-5-31-2-9-7-8-5-3"
-       inkscape:transform-center-x="-25.057453"
-       inkscape:transform-center-y="25.206254"
-       transform="rotate(63.859419,666.01927,501.05732)"><textPath
-         xlink:href="#path74-0-0-5"
-         id="textPath145-0"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.36653px;font-family:Arial;-inkscape-font-specification:Arial;fill:#d11723;fill-opacity:1;stroke:none;stroke-width:0.4852"
-           id="tspan3-8-8-7-6-3-42">Spacecraft 1</tspan></textPath></text>
-  </g>
+  <ellipse
+     style="display:inline;fill:#d11723;fill-opacity:0.0286123;stroke:#323232;stroke-width:0.15;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+     id="path74-0-0-5"
+     cx="665.64325"
+     cy="-502.49777"
+     rx="38.658493"
+     ry="38.575886"
+     transform="scale(1,-1)" />
+  <text
+     xml:space="preserve"
+     style="font-size:4.36653px;display:inline;fill:#d11723;fill-opacity:1;stroke:#000000;stroke-width:0.485199;stroke-opacity:1"
+     id="text27-0-5-31-2-9-7-8-5-3"
+     inkscape:transform-center-x="-25.057453"
+     inkscape:transform-center-y="25.206254"
+     transform="rotate(63.859419,666.01927,501.05732)"><textPath
+       xlink:href="#path74-0-0-5"
+       id="textPath145-0"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.36653px;font-family:Arial;-inkscape-font-specification:Arial;fill:#d11723;fill-opacity:1;stroke:none;stroke-width:0.4852"
+         id="tspan3-8-8-7-6-3-42">Spacecraft 1</tspan></textPath></text>
   <g
      id="g145-8"
      transform="translate(-42.356922,390.52348)">
@@ -19176,7 +18922,7 @@
        sodipodi:nodetypes="cc" />
   </g>
   <ellipse
-     style="fill:#dbe1e7;fill-opacity:0.3;stroke:#323232;stroke-width:0.15;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:#295f24;fill-opacity:0.06;stroke:#323232;stroke-width:0.15;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
      id="path74-0-8"
      cx="770.98126"
      cy="291.48996"
@@ -19621,7 +19367,7 @@
      inkscape:path-effect="#path-effect198"
      inkscape:original-d="m 767.99942,355.80645 c 5.43898,-5.32424 10.87797,-10.6485 16.31696,-15.97274 3.19003,-5.43909 6.37992,-10.87797 9.56987,-16.31696 1.07865,-3.55724 2.15725,-7.1143 3.23585,-10.67146 0.11475,-2.08841 0.2295,-4.17677 0.34425,-6.26515" />
   <ellipse
-     style="fill:#dbe1e7;fill-opacity:0.3;stroke:#323232;stroke-width:0.15;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:#821770;fill-opacity:0.05;stroke:#323232;stroke-width:0.15;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
      id="path74-4"
      cx="-561.98462"
      cy="-290.98471"
