@@ -26,9 +26,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="2.8284274"
-     inkscape:cx="1949.4932"
-     inkscape:cy="454.49284"
+     inkscape:zoom="0.50000005"
+     inkscape:cx="2251.9998"
+     inkscape:cy="1512.9999"
      inkscape:window-width="3840"
      inkscape:window-height="2054"
      inkscape:window-x="-11"
@@ -104,10 +104,10 @@
        margin="0"
        bleed="0" />
     <inkscape:page
-       x="788.32593"
-       y="492.12494"
-       width="181.37186"
-       height="100.93853"
+       x="725.83832"
+       y="476.78366"
+       width="243.85947"
+       height="116.2798"
        id="page5"
        margin="0"
        bleed="0"
@@ -117,6 +117,90 @@
   </sodipodi:namedview>
   <defs
      id="defs1">
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect36"
+       is_visible="true"
+       lpeversion="1.3"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false"
+       uniform="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect35"
+       is_visible="true"
+       lpeversion="1.3"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false"
+       uniform="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect34"
+       is_visible="true"
+       lpeversion="1.3"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false"
+       uniform="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect33"
+       is_visible="true"
+       lpeversion="1.3"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false"
+       uniform="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect32"
+       is_visible="true"
+       lpeversion="1.3"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false"
+       uniform="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect31"
+       is_visible="true"
+       lpeversion="1.3"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false"
+       uniform="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect30"
+       is_visible="true"
+       lpeversion="1.3"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false"
+       uniform="false" />
     <inkscape:path-effect
        effect="bspline"
        id="path-effect29"
@@ -2523,6 +2607,177 @@
          style="stop-color:#BA0000"
          offset="0.6854" />
     </radialGradient>
+    <marker
+       style="overflow:visible"
+       id="Triangle-3-4-2"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1.2"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="none">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-31-39-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle-3-4-28"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1.2"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="none">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-31-39-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle-3-4-2-8"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1.2"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="none">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-31-39-6-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle-3-4-2-5"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1.2"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="none">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-31-39-6-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle-3-4-2-8-3"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1.2"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="none">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-31-39-6-2-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle-3-4-2-6"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1.2"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="none">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-31-39-6-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle-3-4-2-8-1"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1.2"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="none">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-31-39-6-2-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle-3-4-2-8-11"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1.2"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="none">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-31-39-6-2-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle-3-4-2-9"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1.2"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="none">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-31-39-6-0" />
+    </marker>
   </defs>
   <g
      id="use15-7-9"
@@ -3274,8 +3529,8 @@
      id="rect1-6-9-9-3-5-4"
      width="27.314945"
      height="12.354401"
-     x="863.01971"
-     y="536.25317" />
+     x="821.48608"
+     y="508.28342" />
   <rect
      style="display:inline;fill:#77d582;fill-opacity:0.109209;stroke:#323232;stroke-width:0.15;stroke-linecap:square;stroke-opacity:1"
      id="rect1-6-9-9-3-2-3"
@@ -4533,13 +4788,13 @@
     <text
        xml:space="preserve"
        style="font-size:4.58611px;text-align:center;text-anchor:middle;fill:#667982;fill-opacity:1;stroke:#000000;stroke-width:0.485199;stroke-opacity:1"
-       x="75.599045"
-       y="429.74323"
+       x="75.652489"
+       y="430.76227"
        id="text116-5-5-2"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.58611px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#323232;fill-opacity:1;stroke:none;stroke-width:0.4852"
-         x="75.599045"
-         y="429.74323"
+         x="75.652489"
+         y="430.76227"
          id="tspan116-1-7-1">PM</tspan></text>
   </g>
   <g
@@ -4584,6 +4839,16 @@
        x="553.56958"
        y="573.69855"
        id="tspan117-4-9-5">Rb Clock</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:2.82222px;display:inline;fill:#667982;fill-opacity:1;stroke:#000000;stroke-width:0.485199;stroke-opacity:1"
+     id="use53-0-3-47-4"
+     inkscape:label="OG USO"
+     transform="translate(1.0583333,-0.52916663)"><textPath
+       xlink:href="#path30"
+       id="textPath30"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:Arial;-inkscape-font-specification:Arial;fill:#323232;fill-opacity:1;stroke:none;stroke-width:0.4852"
+         id="tspan117-4-9-5-7">to delay line boards</tspan></textPath></text>
   <g
      id="use52-5-9-0"
      transform="matrix(-1,0,0,1,239.88494,-5.2550684)"
@@ -4952,11 +5217,11 @@
      sodipodi:nodetypes="ccccc" />
   <path
      style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.554317;stroke-linecap:square;stroke-opacity:1;marker-end:url(#Triangle-3-1-88)"
-     d="m 674.09564,452.03922 c 0.81518,0.75787 1.63035,1.51573 3.08092,2.85144 1.45058,1.33571 3.5364,3.24912 5.20693,4.71902 1.67053,1.4699 2.92556,2.49612 5.38047,2.99498 2.4549,0.49886 6.10942,0.4703 9.76403,0.44173"
+     d="m 673.98095,453.63338 c 0.85341,0.22649 1.70681,0.45298 3.1765,1.52298 1.46969,1.07001 3.55551,2.98342 5.22604,4.45332 1.67053,1.4699 2.92556,2.49612 5.38047,2.99498 2.4549,0.49886 6.10942,0.4703 9.76403,0.44173"
      id="path3-0-6"
      transform="matrix(-0.57673163,0,0,-0.3526864,946.72502,724.97689)"
      sodipodi:nodetypes="ccccc"
-     inkscape:original-d="m 674.09564,452.03922 c 0.81518,0.75787 1.63035,1.51573 2.44555,2.27363 2.08595,1.91352 4.17177,3.82693 6.25772,5.74045 1.25511,1.02628 2.51014,2.0525 3.76526,3.07879 3.65469,-0.0286 7.30921,-0.0571 10.96382,-0.0857"
+     inkscape:original-d="m 673.98095,453.63338 c 0.85341,0.22649 1.70681,0.45298 2.56024,0.67947 2.08595,1.91352 4.17177,3.82693 6.25772,5.74045 1.25511,1.02628 2.51014,2.0525 3.76526,3.07879 3.65469,-0.0286 7.30921,-0.0571 10.96382,-0.0857"
      inkscape:path-effect="#path-effect7-7-0" />
   <path
      style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.254123;stroke-linecap:square;stroke-opacity:1;marker-end:url(#Triangle-3-1)"
@@ -4968,10 +5233,10 @@
      sodipodi:nodetypes="ccccccc" />
   <path
      style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.254123;stroke-linecap:square;stroke-opacity:1;marker-end:url(#Triangle-3-1-4)"
-     d="m 660.39506,406.09993 c 7.70293,3.74556 15.40567,7.49103 13.91937,14.96177 -1.4863,7.47074 -12.16137,18.66595 -19.97661,27.7932 -7.81524,9.12725 -12.76986,16.1856 -16.4789,20.88836 -3.70904,4.70276 -6.17206,7.04939 -7.42693,8.94363 -1.25488,1.89424 -1.30144,3.33586 0.019,4.29105 1.32048,0.95519 4.00792,1.42385 6.69535,1.89251"
+     d="m 660.39506,406.09993 c 7.70293,3.74556 15.40567,7.49103 13.91937,14.96177 -1.4863,7.47074 -12.16137,18.66595 -19.97661,27.7932 -7.81524,9.12725 -12.76986,16.1856 -16.4789,20.88836 -3.70904,4.70276 -6.17206,7.04939 -7.42693,8.94363 -1.25488,1.89424 -1.30144,3.33586 -0.0581,4.23979 1.24331,0.90393 3.77641,1.27007 6.3095,1.63621"
      id="path7-7-9"
      inkscape:path-effect="#path-effect8-5-4"
-     inkscape:original-d="m 660.39506,406.09993 c 7.70293,3.74556 15.40567,7.49103 23.10875,11.23666 -10.67568,11.19585 -21.35075,22.39106 -32.02636,33.58684 -4.95487,7.05872 -9.90949,14.11707 -14.86439,21.17582 -2.46318,2.34677 -4.9262,4.6934 -7.38938,7.04017 -0.0466,1.44171 -0.0931,2.88333 -0.1397,4.32504 2.68752,0.46867 5.37496,0.93733 8.06239,1.40599"
+     inkscape:original-d="m 660.39506,406.09993 c 7.70293,3.74556 15.40567,7.49103 23.10875,11.23666 -10.67568,11.19585 -21.35075,22.39106 -32.02636,33.58684 -4.95487,7.05872 -9.90949,14.11707 -14.86439,21.17582 -2.46318,2.34677 -4.9262,4.6934 -7.38938,7.04017 -0.0466,1.44171 -0.0931,2.88333 -0.1397,4.32504 2.53318,0.36615 5.06628,0.73229 7.59937,1.09843"
      transform="matrix(1,0,0,0.96781119,-122.76498,87.843348)"
      sodipodi:nodetypes="ccccccc" />
   <path
@@ -5016,7 +5281,7 @@
        rotate="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0">POS -- Very Noisy</tspan></text>
   <g
      id="use51-7-6-0-9-5-5-6"
-     transform="matrix(-0.91469878,0,0,0.91469878,1575.7637,471.13001)"
+     transform="matrix(-0.91469878,0,0,0.91469878,1533.9494,443.44089)"
      style="display:inline;stroke-width:1.09326"
      inkscape:label="OG USO">
     <circle
@@ -5037,13 +5302,13 @@
   <text
      xml:space="preserve"
      style="font-size:4.23333px;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.532;stroke-dasharray:none;stroke-opacity:1"
-     x="866.21075"
-     y="535.05676"
+     x="824.67712"
+     y="507.08701"
      id="text27-0-4-2-9-3-1-0-3-1-7-4-8"><tspan
        sodipodi:role="line"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.532;stroke-dasharray:none"
-       x="866.21075"
-       y="535.05676"
+       x="824.67712"
+       y="507.08701"
        id="tspan33-7-9-9-7-7-5-2-1-0-9"
        rotate="0 0 0 0 0 0 0 0 0">Moku:Lab</tspan></text>
   <text
@@ -5201,43 +5466,43 @@
   </g>
   <g
      id="g1-3"
-     transform="translate(731.34306,127.93381)"
+     transform="translate(722.38118,147.85875)"
      style="display:inline">
     <text
        xml:space="preserve"
        style="font-size:3.88032px;font-family:Arial;-inkscape-font-specification:Arial;fill:#fffffb;stroke:#323232;stroke-width:0.149991;stroke-linecap:square"
-       x="136.08682"
-       y="390.69589"
+       x="138.65921"
+       y="390.3952"
        id="text1-4"
-       transform="scale(1.0000618,0.99993818)"><tspan
+       transform="scale(1.0000618,0.9999382)"><tspan
          sodipodi:role="line"
          id="tspan1-6"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88032px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#323232;fill-opacity:1;stroke:none;stroke-width:0.149991"
-         x="136.08682"
-         y="390.69589">Delay Line</tspan></text>
+         x="138.65921"
+         y="390.3952">Delay Line</tspan></text>
     <rect
        style="fill:none;fill-opacity:1;stroke:#323232;stroke-width:0.15;stroke-linecap:square;stroke-opacity:1"
        id="rect1-6"
-       width="27.314945"
+       width="22.170008"
        height="6.909555"
-       x="132.2058"
+       x="137.35074"
        y="385.93585" />
   </g>
   <text
      xml:space="preserve"
      style="font-size:4.36653px;display:inline;fill:#d11723;fill-opacity:1;stroke:#000000;stroke-width:0.485199;stroke-opacity:1"
-     x="797.34021"
-     y="577.86298"
+     x="822.48511"
+     y="566.37854"
      id="text27-0-5-31-2-9-7-8-5"><tspan
        sodipodi:role="line"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.36653px;font-family:Arial;-inkscape-font-specification:Arial;fill:#d11723;fill-opacity:1;stroke:none;stroke-width:0.4852"
-       x="797.34021"
-       y="577.86298"
+       x="822.48511"
+       y="566.37854"
        id="tspan3-8-8-7-6-3">Spacecraft 1</tspan></text>
   <g
      style="display:inline;stroke-width:1.04332;enable-background:new"
      id="g5154-7-2-6"
-     transform="matrix(0.25359814,0,0,0.25359814,835.31024,565.79593)"
+     transform="matrix(0.25359814,0,0,0.25359814,860.24811,554.79446)"
      inkscape:label="OG mixer">
     <radialGradient
        id="radialGradient14-4-1-4-50"
@@ -5345,44 +5610,84 @@
   </g>
   <path
      style="display:inline;fill:none;stroke:#323232;stroke-width:0.250001;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle-3-4);enable-background:new"
-     d="m 835.30618,569.48523 h -9.48154"
+     d="m 860.45889,558.48381 h -9.27377"
      id="path7450-4-6-1-1-1-6-9"
      sodipodi:nodetypes="cc" />
   <path
-     style="display:inline;fill:none;stroke:#323232;stroke-width:0.249999;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle-3-4);enable-background:new"
-     d="M 863.48478,569.61755 H 843.46696"
-     id="path7450-4-6-1-2-8-2-6"
+     style="display:inline;fill:none;stroke:#d11723;stroke-width:0.250001;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle-3-4-2);enable-background:new"
+     d="m 825.35973,531.20183 v -9.27377"
+     id="path7450-4-6-1-1-1-6-9-8"
+     sodipodi:nodetypes="cc" />
+  <path
+     style="display:inline;fill:none;stroke:#d11723;stroke-width:0.250001;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle-3-4-2-9);enable-background:new"
+     d="m 840.00593,520.70417 v 9.27377"
+     id="path7450-4-6-1-1-1-6-9-8-4"
+     sodipodi:nodetypes="cc" />
+  <path
+     style="display:inline;fill:none;stroke:#d11723;stroke-width:0.250001;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle-3-4-2-6);enable-background:new"
+     d="m 849.34049,537.30912 h 9.27377"
+     id="path7450-4-6-1-1-1-6-9-8-1"
+     sodipodi:nodetypes="cc" />
+  <path
+     style="display:inline;fill:none;stroke:#d11723;stroke-width:0.250001;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle-3-4-2-5);enable-background:new"
+     d="m 825.18953,555.05472 v -9.27377"
+     id="path7450-4-6-1-1-1-6-9-8-0"
+     sodipodi:nodetypes="cc" />
+  <path
+     style="display:inline;fill:none;stroke:#295f24;stroke-width:0.250001;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle-3-4-2-8);enable-background:new"
+     d="m 828.60615,531.19225 v -9.27377"
+     id="path7450-4-6-1-1-1-6-9-8-8"
+     sodipodi:nodetypes="cc" />
+  <path
+     style="display:inline;fill:none;stroke:#295f24;stroke-width:0.250001;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle-3-4-2-8-1);enable-background:new"
+     d="m 915.2494,558.87265 h -9.27377"
+     id="path7450-4-6-1-1-1-6-9-8-8-98"
+     sodipodi:nodetypes="cc" />
+  <path
+     style="display:inline;fill:none;stroke:#295f24;stroke-width:0.250001;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle-3-4-2-8-11);enable-background:new"
+     d="m 843.84239,520.70417 v 9.27377"
+     id="path7450-4-6-1-1-1-6-9-8-8-5"
+     sodipodi:nodetypes="cc" />
+  <path
+     style="display:inline;fill:none;stroke:#295f24;stroke-width:0.250001;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle-3-4-2-8-3);enable-background:new"
+     d="m 920.40972,533.7248 v -9.27377"
+     id="path7450-4-6-1-1-1-6-9-8-8-9"
      sodipodi:nodetypes="cc" />
   <path
      style="display:inline;fill:none;stroke:#323232;stroke-width:0.25;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle-3-4);enable-background:new"
-     d="m 891.04432,517.32446 h 21.33092"
+     d="m 882.11151,537.2494 h 13.72403"
      id="path7450-4-6-1-2-8-2-0-48-5-6"
      sodipodi:nodetypes="cc" />
   <path
+     style="display:inline;fill:none;stroke:#323232;stroke-width:0.25;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle-3-4-28);enable-background:new"
+     d="M 882.4144,558.6716 H 868.56902"
+     id="path7450-4-6-1-2-8-2-0-48-5-6-3"
+     sodipodi:nodetypes="cc" />
+  <path
      style="display:inline;fill:none;stroke:#323232;stroke-width:0.25;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle-3-4);enable-background:new"
-     d="m 920.6633,517.32442 h 9.61303"
+     d="m 903.81517,537.3429 h 9.61303"
      id="path7450-4-6-1-2-8-2-0-48-5-3"
      sodipodi:nodetypes="cc" />
   <text
      xml:space="preserve"
      style="font-size:4.36653px;display:inline;fill:#295f24;fill-opacity:1;stroke:#000000;stroke-width:0.485199;stroke-opacity:1"
-     x="934.35669"
-     y="511.82068"
+     x="916.47284"
+     y="544.91339"
      id="text27-0-5-31-2-9-7-9-7-2-9-8-3"><tspan
        sodipodi:role="line"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.36653px;font-family:Arial;-inkscape-font-specification:Arial;fill:#295f24;fill-opacity:1;stroke:none;stroke-width:0.4852"
-       x="934.35669"
-       y="511.82068"
+       x="916.47284"
+       y="544.91339"
        id="tspan3-8-8-7-5-8-6-7-7-0">Spacecraft 2</tspan></text>
   <use
      x="0"
      y="0"
      xlink:href="#g5154-7-2-6"
      id="use23"
-     transform="translate(78.056698,-52.160741)" />
+     transform="translate(36.512518,-21.23424)" />
   <g
      id="use14-0"
-     transform="translate(742.66244,144.3993)"
+     transform="translate(767.81241,133.39781)"
      style="display:inline"
      inkscape:label="OG PM">
     <rect
@@ -5409,49 +5714,839 @@
      y="0"
      xlink:href="#use14-0"
      id="use9"
-     transform="translate(136.76778,-52.160771)" />
+     transform="translate(94.240573,-21.14072)" />
   <use
      x="0"
      y="0"
      xlink:href="#g1-3"
      id="use17"
-     transform="translate(4.5019939e-7,52.160781)" />
+     transform="translate(22.754176,21.702002)" />
   <path
-     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
-     d="m 862.80616,536.44265 c -2.99862,-1.6757 -5.99723,-3.35139 -7.56268,-5.88702 -1.56545,-2.53562 -1.69774,-5.93105 -1.01421,-8.29026 0.68352,-2.35921 2.18279,-3.68209 3.83644,-4.3656 1.65366,-0.68351 3.46161,-0.7276 5.26962,-0.7717"
-     id="path21"
-     inkscape:path-effect="#path-effect22"
-     inkscape:original-d="m 862.80616,536.44265 c -2.99863,-1.67569 -5.99723,-3.3514 -8.99583,-5.02708 -0.1323,-3.39556 -0.26459,-6.79099 -0.39688,-10.18646 1.49934,-1.32295 2.9986,-2.64584 4.49792,-3.96875 1.808,-0.0441 3.61595,-0.0882 5.42396,-0.13229" />
+     style="fill:none;stroke:#323232;stroke-width:0.25;stroke-linecap:square;marker-start:url(#Triangle-3)"
+     d="m 565.87755,559.92441 c -5.40192,-1.06936 -10.80371,-2.13868 -13.55433,-5.01058 -2.75062,-2.87189 -2.84984,-7.54598 -2.89945,-10.88643 -0.0496,-3.34044 -0.0496,-5.3468 -0.0496,-7.35324"
+     id="path30"
+     inkscape:path-effect="#path-effect30"
+     inkscape:original-d="m 565.87755,559.92441 c -5.40192,-1.06935 -10.80371,-2.13868 -16.20573,-3.20806 -0.0992,-4.67441 -0.19844,-9.3485 -0.29766,-14.02292 0,-2.00647 0,-4.01283 0,-6.01927"
+     sodipodi:nodetypes="cccc"
+     transform="rotate(180,555.54948,549.59187)" />
+  <g
+     stroke="#000000"
+     fill="#000000"
+     stroke-width="0"
+     transform="matrix(0.004788,0,0,-0.004788,921.9641,527.23724)"
+     id="g14">
+    <g
+       data-mml-node="math"
+       data-latex=" \definecolor{laserred}{RGB}{215,27,47} \definecolor{refblue}{RGB}{45,19,180} \definecolor{emeraldgreen}{RGB}{41,95,36} \definecolor{ppurple}{RGB}{130,23,112} \definecolor{linegray}{RGB}{50,50,50}  \color{emeraldgreen}f_{2}^m(t) "
+       data-semantic-structure="(10 (4 (3 0 1) 2) 9 (8 5 6 7))"
+       id="g13">
+      <g
+         data-mml-node="mstyle"
+         fill="#295f24"
+         stroke="#295f24"
+         data-latex=" \definecolor{laserred}{RGB}{215,27,47} \definecolor{refblue}{RGB}{45,19,180} \definecolor{emeraldgreen}{RGB}{41,95,36} \definecolor{ppurple}{RGB}{130,23,112} \definecolor{linegray}{RGB}{50,50,50}  \color{emeraldgreen}f_{2}^m(t) "
+         data-semantic-type="appl"
+         data-semantic-role="simple function"
+         data-semantic-annotation="clearspeak:simple;depth:1"
+         data-semantic-id="10"
+         data-semantic-children="4,8"
+         data-semantic-content="9,0"
+         data-semantic-attributes="latex: \definecolor{laserred}{RGB}{215,27,47} \definecolor{refblue}{RGB}{45,19,180} \definecolor{emeraldgreen}{RGB}{41,95,36} \definecolor{ppurple}{RGB}{130,23,112} \definecolor{linegray}{RGB}{50,50,50}  \color{emeraldgreen}f_{2}^m(t) "
+         data-semantic-owns="4 9 8"
+         aria-level="0"
+         data-speech-node="true"
+         id="g12">
+        <g
+           data-mml-node="msubsup"
+           data-latex="f_{2}^m"
+           data-semantic-type="subsup"
+           data-semantic-role="simple function"
+           data-semantic-annotation="depth:2"
+           data-semantic-id="4"
+           data-semantic-children="0,1,2"
+           data-semantic-parent="10"
+           data-semantic-attributes="latex:f_{2}^m"
+           data-semantic-collapsed="(4 (3 0 1) 2)"
+           data-semantic-owns="0 1 2"
+           aria-level="1"
+           data-speech-node="true"
+           id="g6">
+          <g
+             data-mml-node="mi"
+             data-latex="f"
+             data-semantic-type="identifier"
+             data-semantic-role="simple function"
+             data-semantic-font="italic"
+             data-semantic-annotation="clearspeak:simple;nemeth:number;depth:4"
+             data-semantic-id="0"
+             data-semantic-parent="4"
+             data-semantic-attributes="latex:f"
+             data-semantic-operator="appl"
+             aria-level="3"
+             data-speech-node="true"
+             id="g2">
+            <path
+               id="use1"
+               d="m 552,633 c 0,44 -43,72 -90,72 -62,0 -105,-40 -128,-119 -5,-18 -16,-69 -32,-153 h -65 c -22,0 -33,-1 -33,-22 0,-11 10,-16 31,-16 h 60 L 222,8 c -11,-57 -21,-99 -30,-127 -12,-37 -29,-56 -51,-56 -15,0 -27,4 -38,11 32,5 48,24 48,56 0,26 -13,39 -40,39 -34,0 -58,-30 -58,-64 0,-44 41,-72 88,-72 25,0 48,10 67,31 32,33 57,80 75,143 11,39 21,77 28,115 l 58,311 h 82 c 23,0 33,1 33,24 0,9 -10,14 -30,14 h -77 c 6,41 34,192 43,211 10,21 24,31 42,31 15,0 28,-4 39,-11 -31,-7 -47,-25 -47,-56 0,-26 13,-39 40,-39 34,0 58,30 58,64 z" />
+          </g>
+          <g
+             data-mml-node="mi"
+             transform="matrix(0.707,0,0,0.707,638.1,413)"
+             data-latex="m"
+             data-semantic-type="identifier"
+             data-semantic-role="latinletter"
+             data-semantic-font="italic"
+             data-semantic-annotation="clearspeak:simple;depth:3"
+             data-semantic-id="2"
+             data-semantic-parent="4"
+             data-semantic-attributes="latex:m"
+             aria-level="2"
+             data-speech-node="true"
+             id="g3">
+            <path
+               id="use2"
+               d="m 657,442 c -61,0 -114,-30 -159,-89 -9,59 -47,89 -115,89 -59,0 -110,-26 -152,-79 -8,44 -43,79 -94,79 -41,0 -71,-33 -92,-98 -11,-32 -16,-51 -16,-57 0,-9 5,-14 16,-14 5,0 8,1 11,3 5,9 8,16 10,23 18,76 41,114 68,114 18,0 27,-14 27,-42 0,-13 -5,-40 -16,-81 L 88,63 C 84,51 79,25 79,19 c 0,-20 11,-30 32,-30 20,0 34,10 41,30 1,5 8,30 19,73 l 21,89 30,114 c 11,23 28,46 50,70 29,32 65,48 108,48 33,0 49,-22 49,-65 0,-13 -5,-40 -15,-81 L 387,153 c -7,-29 -23,-89 -31,-121 -1,-7 -2,-11 -2,-13 0,-20 11,-30 33,-30 11,0 19,3 26,10 15,15 16,22 22,49 l 59,237 c 3,13 17,36 41,68 30,40 70,60 119,60 33,0 49,-22 49,-65 0,-39 -20,-112 -61,-219 -9,-23 -13,-42 -13,-55 0,-49 37,-85 85,-85 45,0 79,25 104,75 20,40 30,67 30,80 0,9 -5,14 -16,14 -7,-1 -14,-10 -19,-21 C 791,58 759,18 716,18 c -13,0 -20,10 -20,29 0,15 6,37 18,68 41,107 61,180 61,218 0,71 -47,109 -118,109 z" />
+          </g>
+          <g
+             data-mml-node="TeXAtom"
+             transform="matrix(0.707,0,0,0.707,523,-247)"
+             data-mjx-texclass="ORD"
+             data-latex="{2}"
+             id="g5">
+            <g
+               data-mml-node="mn"
+               data-latex="2"
+               data-semantic-type="number"
+               data-semantic-role="integer"
+               data-semantic-font="normal"
+               data-semantic-annotation="clearspeak:simple;depth:4"
+               data-semantic-id="1"
+               data-semantic-parent="4"
+               data-semantic-attributes="latex:{2};texclass:ORD"
+               aria-level="3"
+               data-speech-node="true"
+               id="g4">
+              <path
+                 id="use3"
+                 d="M 237,666 C 186,666 143,648 106,612 69,576 50,534 50,483 c 0,-34 25,-59 56,-59 30,0 55,26 55,56 0,33 -24,56 -56,56 -3,0 -5,0 -7,-1 19,49 63,92 126,92 82,0 128,-71 128,-157 0,-67 -34,-139 -102,-215 L 62,43 C 49,28 50,29 50,0 h 371 l 29,180 h -33 c -8,-51 -15,-80 -21,-89 -5,-5 -35,-7 -90,-7 H 139 l 97,95 c 68,64 154,133 183,186 20,35 30,70 30,105 0,118 -92,196 -212,196 z" />
+            </g>
+          </g>
+        </g>
+        <g
+           data-mml-node="mo"
+           data-semantic-type="punctuation"
+           data-semantic-role="application"
+           data-semantic-annotation="nemeth:number;depth:2"
+           data-semantic-id="9"
+           data-semantic-parent="10"
+           data-semantic-added="true"
+           data-semantic-operator="appl"
+           aria-level="1"
+           data-speech-node="true"
+           transform="translate(1308.9)"
+           id="g7">
+          <path
+             id="use5"
+             d="" />
+        </g>
+        <g
+           data-mml-node="mrow"
+           data-semantic-added="true"
+           data-semantic-type="fenced"
+           data-semantic-role="leftright"
+           data-semantic-annotation="depth:2"
+           data-semantic-id="8"
+           data-semantic-children="6"
+           data-semantic-content="5,7"
+           data-semantic-parent="10"
+           data-semantic-owns="5 6 7"
+           aria-level="1"
+           data-speech-node="true"
+           transform="translate(1308.9)"
+           id="g11">
+          <g
+             data-mml-node="mo"
+             data-latex="("
+             data-semantic-type="fence"
+             data-semantic-role="open"
+             data-semantic-annotation="depth:3"
+             data-semantic-id="5"
+             data-semantic-parent="8"
+             data-semantic-attributes="latex:("
+             data-semantic-operator="fenced"
+             aria-level="2"
+             data-speech-node="true"
+             id="g8">
+            <path
+               id="use6"
+               d="m 318,-248 c 9,0 14,5 14,14 0,3 -2,7 -5,11 -52,40 -94,106 -125,197 -27,79 -41,157 -41,234 v 84 c 0,77 14,155 41,234 31,91 73,157 125,197 3,3 5,7 5,11 0,9 -5,14 -14,14 -1,0 -4,-1 -7,-3 C 251,699 201,631 160,540 121,453 101,371 101,292 v -84 c 0,-79 20,-161 59,-248 41,-91 91,-159 151,-205 3,-2 6,-3 7,-3 z" />
+          </g>
+          <g
+             data-mml-node="mi"
+             data-latex="t"
+             data-semantic-type="identifier"
+             data-semantic-role="latinletter"
+             data-semantic-font="italic"
+             data-semantic-annotation="clearspeak:simple;depth:3"
+             data-semantic-id="6"
+             data-semantic-parent="8"
+             data-semantic-attributes="latex:t"
+             aria-level="2"
+             data-speech-node="true"
+             transform="translate(389)"
+             id="g9">
+            <path
+               id="use7"
+               d="m 330,419 c 0,9 -10,14 -31,14 h -81 c 26,104 39,158 39,162 0,21 -11,31 -32,31 -23,0 -37,-13 -43,-39 L 145,433 H 56 c -22,0 -33,-1 -33,-22 0,-11 10,-16 31,-16 h 81 C 86,200 62,97 62,84 c 0,-56 38,-95 94,-95 38,0 71,17 100,52 24,29 41,57 52,84 4,11 6,17 6,20 0,9 -5,14 -15,14 -8,0 -14,-5 -18,-16 C 247,60 206,19 157,19 c -17,0 -26,14 -26,41 0,15 2,31 6,47 l 71,288 h 89 c 26,0 33,2 33,24 z" />
+          </g>
+          <g
+             data-mml-node="mo"
+             data-latex=")"
+             data-semantic-type="fence"
+             data-semantic-role="close"
+             data-semantic-annotation="depth:3"
+             data-semantic-id="7"
+             data-semantic-parent="8"
+             data-semantic-attributes="latex:)"
+             data-semantic-operator="fenced"
+             aria-level="2"
+             data-speech-node="true"
+             transform="translate(750)"
+             id="g10">
+            <path
+               id="use8"
+               d="m 78,-245 c 60,46 110,114 151,205 39,87 59,169 59,248 v 84 c 0,79 -20,161 -59,248 -41,91 -91,159 -151,205 -3,2 -6,3 -7,3 -9,0 -14,-5 -14,-14 0,-4 2,-8 5,-11 52,-40 94,-106 125,-197 27,-79 41,-157 41,-234 v -84 c 0,-77 -14,-155 -41,-234 -31,-91 -73,-157 -125,-197 -3,-4 -5,-8 -5,-11 0,-9 5,-14 14,-14 1,0 4,1 7,3 z" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     stroke="#000000"
+     fill="#000000"
+     stroke-width="0"
+     transform="matrix(0.00250434,0,0,-0.00262784,829.22916,528.98903)"
+     id="g14-1">
+    <g
+       data-mml-node="math"
+       data-latex=" \definecolor{laserred}{RGB}{215,27,47} \definecolor{refblue}{RGB}{45,19,180} \definecolor{emeraldgreen}{RGB}{41,95,36} \definecolor{ppurple}{RGB}{130,23,112} \definecolor{linegray}{RGB}{50,50,50}  \color{emeraldgreen}f_{2}^m(t) "
+       data-semantic-structure="(10 (4 (3 0 1) 2) 9 (8 5 6 7))"
+       id="g13-2"
+       style="stroke-width:0">
+      <g
+         data-mml-node="mstyle"
+         fill="#295f24"
+         stroke="#295f24"
+         data-latex=" \definecolor{laserred}{RGB}{215,27,47} \definecolor{refblue}{RGB}{45,19,180} \definecolor{emeraldgreen}{RGB}{41,95,36} \definecolor{ppurple}{RGB}{130,23,112} \definecolor{linegray}{RGB}{50,50,50}  \color{emeraldgreen}f_{2}^m(t) "
+         data-semantic-type="appl"
+         data-semantic-role="simple function"
+         data-semantic-annotation="clearspeak:simple;depth:1"
+         data-semantic-id="10"
+         data-semantic-children="4,8"
+         data-semantic-content="9,0"
+         data-semantic-attributes="latex: \definecolor{laserred}{RGB}{215,27,47} \definecolor{refblue}{RGB}{45,19,180} \definecolor{emeraldgreen}{RGB}{41,95,36} \definecolor{ppurple}{RGB}{130,23,112} \definecolor{linegray}{RGB}{50,50,50}  \color{emeraldgreen}f_{2}^m(t) "
+         data-semantic-owns="4 9 8"
+         aria-level="0"
+         data-speech-node="true"
+         id="g12-99"
+         style="stroke-width:0">
+        <g
+           data-mml-node="msubsup"
+           data-latex="f_{2}^m"
+           data-semantic-type="subsup"
+           data-semantic-role="simple function"
+           data-semantic-annotation="depth:2"
+           data-semantic-id="4"
+           data-semantic-children="0,1,2"
+           data-semantic-parent="10"
+           data-semantic-attributes="latex:f_{2}^m"
+           data-semantic-collapsed="(4 (3 0 1) 2)"
+           data-semantic-owns="0 1 2"
+           aria-level="1"
+           data-speech-node="true"
+           id="g6-3"
+           style="stroke-width:0">
+          <g
+             data-mml-node="mi"
+             data-latex="f"
+             data-semantic-type="identifier"
+             data-semantic-role="simple function"
+             data-semantic-font="italic"
+             data-semantic-annotation="clearspeak:simple;nemeth:number;depth:4"
+             data-semantic-id="0"
+             data-semantic-parent="4"
+             data-semantic-attributes="latex:f"
+             data-semantic-operator="appl"
+             aria-level="3"
+             data-speech-node="true"
+             id="g2-5"
+             style="stroke-width:0">
+            <path
+               id="use1-4"
+               d="m 552,633 c 0,44 -43,72 -90,72 -62,0 -105,-40 -128,-119 -5,-18 -16,-69 -32,-153 h -65 c -22,0 -33,-1 -33,-22 0,-11 10,-16 31,-16 h 60 L 222,8 c -11,-57 -21,-99 -30,-127 -12,-37 -29,-56 -51,-56 -15,0 -27,4 -38,11 32,5 48,24 48,56 0,26 -13,39 -40,39 -34,0 -58,-30 -58,-64 0,-44 41,-72 88,-72 25,0 48,10 67,31 32,33 57,80 75,143 11,39 21,77 28,115 l 58,311 h 82 c 23,0 33,1 33,24 0,9 -10,14 -30,14 h -77 c 6,41 34,192 43,211 10,21 24,31 42,31 15,0 28,-4 39,-11 -31,-7 -47,-25 -47,-56 0,-26 13,-39 40,-39 34,0 58,30 58,64 z"
+               style="stroke-width:0" />
+          </g>
+          <g
+             data-mml-node="mi"
+             transform="matrix(0.707,0,0,0.707,638.1,413)"
+             data-latex="m"
+             data-semantic-type="identifier"
+             data-semantic-role="latinletter"
+             data-semantic-font="italic"
+             data-semantic-annotation="clearspeak:simple;depth:3"
+             data-semantic-id="2"
+             data-semantic-parent="4"
+             data-semantic-attributes="latex:m"
+             aria-level="2"
+             data-speech-node="true"
+             id="g3-3"
+             style="stroke-width:0">
+            <path
+               id="use2-1"
+               d="m 657,442 c -61,0 -114,-30 -159,-89 -9,59 -47,89 -115,89 -59,0 -110,-26 -152,-79 -8,44 -43,79 -94,79 -41,0 -71,-33 -92,-98 -11,-32 -16,-51 -16,-57 0,-9 5,-14 16,-14 5,0 8,1 11,3 5,9 8,16 10,23 18,76 41,114 68,114 18,0 27,-14 27,-42 0,-13 -5,-40 -16,-81 L 88,63 C 84,51 79,25 79,19 c 0,-20 11,-30 32,-30 20,0 34,10 41,30 1,5 8,30 19,73 l 21,89 30,114 c 11,23 28,46 50,70 29,32 65,48 108,48 33,0 49,-22 49,-65 0,-13 -5,-40 -15,-81 L 387,153 c -7,-29 -23,-89 -31,-121 -1,-7 -2,-11 -2,-13 0,-20 11,-30 33,-30 11,0 19,3 26,10 15,15 16,22 22,49 l 59,237 c 3,13 17,36 41,68 30,40 70,60 119,60 33,0 49,-22 49,-65 0,-39 -20,-112 -61,-219 -9,-23 -13,-42 -13,-55 0,-49 37,-85 85,-85 45,0 79,25 104,75 20,40 30,67 30,80 0,9 -5,14 -16,14 -7,-1 -14,-10 -19,-21 C 791,58 759,18 716,18 c -13,0 -20,10 -20,29 0,15 6,37 18,68 41,107 61,180 61,218 0,71 -47,109 -118,109 z"
+               style="stroke-width:0" />
+          </g>
+          <g
+             data-mml-node="TeXAtom"
+             transform="matrix(0.707,0,0,0.707,523,-247)"
+             data-mjx-texclass="ORD"
+             data-latex="{2}"
+             id="g5-9"
+             style="stroke-width:0">
+            <g
+               data-mml-node="mn"
+               data-latex="2"
+               data-semantic-type="number"
+               data-semantic-role="integer"
+               data-semantic-font="normal"
+               data-semantic-annotation="clearspeak:simple;depth:4"
+               data-semantic-id="1"
+               data-semantic-parent="4"
+               data-semantic-attributes="latex:{2};texclass:ORD"
+               aria-level="3"
+               data-speech-node="true"
+               id="g4-90"
+               style="stroke-width:0">
+              <path
+                 id="use3-2"
+                 d="M 237,666 C 186,666 143,648 106,612 69,576 50,534 50,483 c 0,-34 25,-59 56,-59 30,0 55,26 55,56 0,33 -24,56 -56,56 -3,0 -5,0 -7,-1 19,49 63,92 126,92 82,0 128,-71 128,-157 0,-67 -34,-139 -102,-215 L 62,43 C 49,28 50,29 50,0 h 371 l 29,180 h -33 c -8,-51 -15,-80 -21,-89 -5,-5 -35,-7 -90,-7 H 139 l 97,95 c 68,64 154,133 183,186 20,35 30,70 30,105 0,118 -92,196 -212,196 z"
+                 style="stroke-width:0" />
+            </g>
+          </g>
+        </g>
+        <g
+           data-mml-node="mo"
+           data-semantic-type="punctuation"
+           data-semantic-role="application"
+           data-semantic-annotation="nemeth:number;depth:2"
+           data-semantic-id="9"
+           data-semantic-parent="10"
+           data-semantic-added="true"
+           data-semantic-operator="appl"
+           aria-level="1"
+           data-speech-node="true"
+           transform="translate(1308.9)"
+           id="g7-6"
+           style="stroke-width:0">
+          <path
+             id="use5-4"
+             d=""
+             style="stroke-width:0" />
+        </g>
+        <g
+           data-mml-node="mrow"
+           data-semantic-added="true"
+           data-semantic-type="fenced"
+           data-semantic-role="leftright"
+           data-semantic-annotation="depth:2"
+           data-semantic-id="8"
+           data-semantic-children="6"
+           data-semantic-content="5,7"
+           data-semantic-parent="10"
+           data-semantic-owns="5 6 7"
+           aria-level="1"
+           data-speech-node="true"
+           transform="translate(1308.9)"
+           id="g11-0"
+           style="stroke-width:0">
+          <g
+             data-mml-node="mo"
+             data-latex="("
+             data-semantic-type="fence"
+             data-semantic-role="open"
+             data-semantic-annotation="depth:3"
+             data-semantic-id="5"
+             data-semantic-parent="8"
+             data-semantic-attributes="latex:("
+             data-semantic-operator="fenced"
+             aria-level="2"
+             data-speech-node="true"
+             id="g8-4"
+             style="stroke-width:0">
+            <path
+               id="use6-4"
+               d="m 318,-248 c 9,0 14,5 14,14 0,3 -2,7 -5,11 -52,40 -94,106 -125,197 -27,79 -41,157 -41,234 v 84 c 0,77 14,155 41,234 31,91 73,157 125,197 3,3 5,7 5,11 0,9 -5,14 -14,14 -1,0 -4,-1 -7,-3 C 251,699 201,631 160,540 121,453 101,371 101,292 v -84 c 0,-79 20,-161 59,-248 41,-91 91,-159 151,-205 3,-2 6,-3 7,-3 z"
+               style="stroke-width:0" />
+          </g>
+          <g
+             data-mml-node="mi"
+             data-latex="t"
+             data-semantic-type="identifier"
+             data-semantic-role="latinletter"
+             data-semantic-font="italic"
+             data-semantic-annotation="clearspeak:simple;depth:3"
+             data-semantic-id="6"
+             data-semantic-parent="8"
+             data-semantic-attributes="latex:t"
+             aria-level="2"
+             data-speech-node="true"
+             transform="translate(389)"
+             id="g9-4"
+             style="stroke-width:0">
+            <path
+               id="use7-3"
+               d="m 330,419 c 0,9 -10,14 -31,14 h -81 c 26,104 39,158 39,162 0,21 -11,31 -32,31 -23,0 -37,-13 -43,-39 L 145,433 H 56 c -22,0 -33,-1 -33,-22 0,-11 10,-16 31,-16 h 81 C 86,200 62,97 62,84 c 0,-56 38,-95 94,-95 38,0 71,17 100,52 24,29 41,57 52,84 4,11 6,17 6,20 0,9 -5,14 -15,14 -8,0 -14,-5 -18,-16 C 247,60 206,19 157,19 c -17,0 -26,14 -26,41 0,15 2,31 6,47 l 71,288 h 89 c 26,0 33,2 33,24 z"
+               style="stroke-width:0" />
+          </g>
+          <g
+             data-mml-node="mo"
+             data-latex=")"
+             data-semantic-type="fence"
+             data-semantic-role="close"
+             data-semantic-annotation="depth:3"
+             data-semantic-id="7"
+             data-semantic-parent="8"
+             data-semantic-attributes="latex:)"
+             data-semantic-operator="fenced"
+             aria-level="2"
+             data-speech-node="true"
+             transform="translate(750)"
+             id="g10-2"
+             style="stroke-width:0">
+            <path
+               id="use8-4"
+               d="m 78,-245 c 60,46 110,114 151,205 39,87 59,169 59,248 v 84 c 0,79 -20,161 -59,248 -41,91 -91,159 -151,205 -3,2 -6,3 -7,3 -9,0 -14,-5 -14,-14 0,-4 2,-8 5,-11 52,-40 94,-106 125,-197 27,-79 41,-157 41,-234 v -84 c 0,-77 -14,-155 -41,-234 -31,-91 -73,-157 -125,-197 -3,-4 -5,-8 -5,-11 0,-9 5,-14 14,-14 1,0 4,1 7,3 z"
+               style="stroke-width:0" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     stroke="#000000"
+     fill="#000000"
+     stroke-width="0"
+     transform="matrix(0.004788,0,0,-0.004788,827.23595,550.68248)"
+     id="g14-2">
+    <g
+       data-mml-node="math"
+       data-latex=" \definecolor{laserred}{RGB}{215,27,47} \definecolor{refblue}{RGB}{45,19,180} \definecolor{emeraldgreen}{RGB}{41,95,36} \definecolor{ppurple}{RGB}{130,23,112} \definecolor{linegray}{RGB}{50,50,50}  \color{laserred}f_{1}^m(t) "
+       data-semantic-structure="(10 (4 (3 0 1) 2) 9 (8 5 6 7))"
+       id="g13-8">
+      <g
+         data-mml-node="mstyle"
+         fill="#d71b2f"
+         stroke="#d71b2f"
+         data-latex=" \definecolor{laserred}{RGB}{215,27,47} \definecolor{refblue}{RGB}{45,19,180} \definecolor{emeraldgreen}{RGB}{41,95,36} \definecolor{ppurple}{RGB}{130,23,112} \definecolor{linegray}{RGB}{50,50,50}  \color{laserred}f_{1}^m(t) "
+         data-semantic-type="appl"
+         data-semantic-role="simple function"
+         data-semantic-annotation="clearspeak:simple;depth:1"
+         data-semantic-id="10"
+         data-semantic-children="4,8"
+         data-semantic-content="9,0"
+         data-semantic-attributes="latex: \definecolor{laserred}{RGB}{215,27,47} \definecolor{refblue}{RGB}{45,19,180} \definecolor{emeraldgreen}{RGB}{41,95,36} \definecolor{ppurple}{RGB}{130,23,112} \definecolor{linegray}{RGB}{50,50,50}  \color{laserred}f_{1}^m(t) "
+         data-semantic-owns="4 9 8"
+         aria-level="0"
+         data-speech-node="true"
+         id="g12-9">
+        <g
+           data-mml-node="msubsup"
+           data-latex="f_{1}^m"
+           data-semantic-type="subsup"
+           data-semantic-role="simple function"
+           data-semantic-annotation="depth:2"
+           data-semantic-id="4"
+           data-semantic-children="0,1,2"
+           data-semantic-parent="10"
+           data-semantic-attributes="latex:f_{1}^m"
+           data-semantic-collapsed="(4 (3 0 1) 2)"
+           data-semantic-owns="0 1 2"
+           aria-level="1"
+           data-speech-node="true"
+           id="g6-8">
+          <g
+             data-mml-node="mi"
+             data-latex="f"
+             data-semantic-type="identifier"
+             data-semantic-role="simple function"
+             data-semantic-font="italic"
+             data-semantic-annotation="clearspeak:simple;nemeth:number;depth:4"
+             data-semantic-id="0"
+             data-semantic-parent="4"
+             data-semantic-attributes="latex:f"
+             data-semantic-operator="appl"
+             aria-level="3"
+             data-speech-node="true"
+             id="g2-3">
+            <path
+               id="use1-1"
+               d="m 552,633 c 0,44 -43,72 -90,72 -62,0 -105,-40 -128,-119 -5,-18 -16,-69 -32,-153 h -65 c -22,0 -33,-1 -33,-22 0,-11 10,-16 31,-16 h 60 L 222,8 c -11,-57 -21,-99 -30,-127 -12,-37 -29,-56 -51,-56 -15,0 -27,4 -38,11 32,5 48,24 48,56 0,26 -13,39 -40,39 -34,0 -58,-30 -58,-64 0,-44 41,-72 88,-72 25,0 48,10 67,31 32,33 57,80 75,143 11,39 21,77 28,115 l 58,311 h 82 c 23,0 33,1 33,24 0,9 -10,14 -30,14 h -77 c 6,41 34,192 43,211 10,21 24,31 42,31 15,0 28,-4 39,-11 -31,-7 -47,-25 -47,-56 0,-26 13,-39 40,-39 34,0 58,30 58,64 z" />
+          </g>
+          <g
+             data-mml-node="mi"
+             transform="matrix(0.707,0,0,0.707,638.1,413)"
+             data-latex="m"
+             data-semantic-type="identifier"
+             data-semantic-role="latinletter"
+             data-semantic-font="italic"
+             data-semantic-annotation="clearspeak:simple;depth:3"
+             data-semantic-id="2"
+             data-semantic-parent="4"
+             data-semantic-attributes="latex:m"
+             aria-level="2"
+             data-speech-node="true"
+             id="g3-4">
+            <path
+               id="use2-8"
+               d="m 657,442 c -61,0 -114,-30 -159,-89 -9,59 -47,89 -115,89 -59,0 -110,-26 -152,-79 -8,44 -43,79 -94,79 -41,0 -71,-33 -92,-98 -11,-32 -16,-51 -16,-57 0,-9 5,-14 16,-14 5,0 8,1 11,3 5,9 8,16 10,23 18,76 41,114 68,114 18,0 27,-14 27,-42 0,-13 -5,-40 -16,-81 L 88,63 C 84,51 79,25 79,19 c 0,-20 11,-30 32,-30 20,0 34,10 41,30 1,5 8,30 19,73 l 21,89 30,114 c 11,23 28,46 50,70 29,32 65,48 108,48 33,0 49,-22 49,-65 0,-13 -5,-40 -15,-81 L 387,153 c -7,-29 -23,-89 -31,-121 -1,-7 -2,-11 -2,-13 0,-20 11,-30 33,-30 11,0 19,3 26,10 15,15 16,22 22,49 l 59,237 c 3,13 17,36 41,68 30,40 70,60 119,60 33,0 49,-22 49,-65 0,-39 -20,-112 -61,-219 -9,-23 -13,-42 -13,-55 0,-49 37,-85 85,-85 45,0 79,25 104,75 20,40 30,67 30,80 0,9 -5,14 -16,14 -7,-1 -14,-10 -19,-21 C 791,58 759,18 716,18 c -13,0 -20,10 -20,29 0,15 6,37 18,68 41,107 61,180 61,218 0,71 -47,109 -118,109 z" />
+          </g>
+          <g
+             data-mml-node="TeXAtom"
+             transform="matrix(0.707,0,0,0.707,523,-247)"
+             data-mjx-texclass="ORD"
+             data-latex="{1}"
+             id="g5-5">
+            <g
+               data-mml-node="mn"
+               data-latex="1"
+               data-semantic-type="number"
+               data-semantic-role="integer"
+               data-semantic-font="normal"
+               data-semantic-annotation="clearspeak:simple;depth:4"
+               data-semantic-id="1"
+               data-semantic-parent="4"
+               data-semantic-attributes="latex:{1};texclass:ORD"
+               aria-level="3"
+               data-speech-node="true"
+               id="g4-9">
+              <path
+                 id="use3-6"
+                 d="M 269,666 C 228,624 168,603 89,603 v -39 c 52,0 95,8 128,24 V 82 c 0,-18 -4,-30 -13,-35 -9,-5 -34,-8 -74,-8 H 95 V 0 c 25,2 79,3 162,3 83,0 137,-1 162,-3 v 39 h -35 c -41,0 -66,3 -74,8 -8,5 -13,17 -13,35 v 554 c 0,24 -2,30 -28,30 z" />
+            </g>
+          </g>
+        </g>
+        <g
+           data-mml-node="mo"
+           data-semantic-type="punctuation"
+           data-semantic-role="application"
+           data-semantic-annotation="nemeth:number;depth:2"
+           data-semantic-id="9"
+           data-semantic-parent="10"
+           data-semantic-added="true"
+           data-semantic-operator="appl"
+           aria-level="1"
+           data-speech-node="true"
+           transform="translate(1308.9)"
+           id="g7-1">
+          <path
+             id="use5-3"
+             d="" />
+        </g>
+        <g
+           data-mml-node="mrow"
+           data-semantic-added="true"
+           data-semantic-type="fenced"
+           data-semantic-role="leftright"
+           data-semantic-annotation="depth:2"
+           data-semantic-id="8"
+           data-semantic-children="6"
+           data-semantic-content="5,7"
+           data-semantic-parent="10"
+           data-semantic-owns="5 6 7"
+           aria-level="1"
+           data-speech-node="true"
+           transform="translate(1308.9)"
+           id="g11-4">
+          <g
+             data-mml-node="mo"
+             data-latex="("
+             data-semantic-type="fence"
+             data-semantic-role="open"
+             data-semantic-annotation="depth:3"
+             data-semantic-id="5"
+             data-semantic-parent="8"
+             data-semantic-attributes="latex:("
+             data-semantic-operator="fenced"
+             aria-level="2"
+             data-speech-node="true"
+             id="g8-2">
+            <path
+               id="use6-3"
+               d="m 318,-248 c 9,0 14,5 14,14 0,3 -2,7 -5,11 -52,40 -94,106 -125,197 -27,79 -41,157 -41,234 v 84 c 0,77 14,155 41,234 31,91 73,157 125,197 3,3 5,7 5,11 0,9 -5,14 -14,14 -1,0 -4,-1 -7,-3 C 251,699 201,631 160,540 121,453 101,371 101,292 v -84 c 0,-79 20,-161 59,-248 41,-91 91,-159 151,-205 3,-2 6,-3 7,-3 z" />
+          </g>
+          <g
+             data-mml-node="mi"
+             data-latex="t"
+             data-semantic-type="identifier"
+             data-semantic-role="latinletter"
+             data-semantic-font="italic"
+             data-semantic-annotation="clearspeak:simple;depth:3"
+             data-semantic-id="6"
+             data-semantic-parent="8"
+             data-semantic-attributes="latex:t"
+             aria-level="2"
+             data-speech-node="true"
+             transform="translate(389)"
+             id="g9-2">
+            <path
+               id="use7-2"
+               d="m 330,419 c 0,9 -10,14 -31,14 h -81 c 26,104 39,158 39,162 0,21 -11,31 -32,31 -23,0 -37,-13 -43,-39 L 145,433 H 56 c -22,0 -33,-1 -33,-22 0,-11 10,-16 31,-16 h 81 C 86,200 62,97 62,84 c 0,-56 38,-95 94,-95 38,0 71,17 100,52 24,29 41,57 52,84 4,11 6,17 6,20 0,9 -5,14 -15,14 -8,0 -14,-5 -18,-16 C 247,60 206,19 157,19 c -17,0 -26,14 -26,41 0,15 2,31 6,47 l 71,288 h 89 c 26,0 33,2 33,24 z" />
+          </g>
+          <g
+             data-mml-node="mo"
+             data-latex=")"
+             data-semantic-type="fence"
+             data-semantic-role="close"
+             data-semantic-annotation="depth:3"
+             data-semantic-id="7"
+             data-semantic-parent="8"
+             data-semantic-attributes="latex:)"
+             data-semantic-operator="fenced"
+             aria-level="2"
+             data-speech-node="true"
+             transform="translate(750)"
+             id="g10-4">
+            <path
+               id="use8-1"
+               d="m 78,-245 c 60,46 110,114 151,205 39,87 59,169 59,248 v 84 c 0,79 -20,161 -59,248 -41,91 -91,159 -151,205 -3,2 -6,3 -7,3 -9,0 -14,-5 -14,-14 0,-4 2,-8 5,-11 52,-40 94,-106 125,-197 27,-79 41,-157 41,-234 v -84 c 0,-77 -14,-155 -41,-234 -31,-91 -73,-157 -125,-197 -3,-4 -5,-8 -5,-11 0,-9 5,-14 14,-14 1,0 4,1 7,3 z" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     stroke="#000000"
+     fill="#000000"
+     stroke-width="0"
+     transform="matrix(0.00266746,0,0,-0.00262784,817.9237,526.00113)"
+     id="g14-2-8">
+    <g
+       data-mml-node="math"
+       data-latex=" \definecolor{laserred}{RGB}{215,27,47} \definecolor{refblue}{RGB}{45,19,180} \definecolor{emeraldgreen}{RGB}{41,95,36} \definecolor{ppurple}{RGB}{130,23,112} \definecolor{linegray}{RGB}{50,50,50}  \color{laserred}f_{1}^m(t) "
+       data-semantic-structure="(10 (4 (3 0 1) 2) 9 (8 5 6 7))"
+       id="g13-8-4"
+       style="stroke-width:0">
+      <g
+         data-mml-node="mstyle"
+         fill="#d71b2f"
+         stroke="#d71b2f"
+         data-latex=" \definecolor{laserred}{RGB}{215,27,47} \definecolor{refblue}{RGB}{45,19,180} \definecolor{emeraldgreen}{RGB}{41,95,36} \definecolor{ppurple}{RGB}{130,23,112} \definecolor{linegray}{RGB}{50,50,50}  \color{laserred}f_{1}^m(t) "
+         data-semantic-type="appl"
+         data-semantic-role="simple function"
+         data-semantic-annotation="clearspeak:simple;depth:1"
+         data-semantic-id="10"
+         data-semantic-children="4,8"
+         data-semantic-content="9,0"
+         data-semantic-attributes="latex: \definecolor{laserred}{RGB}{215,27,47} \definecolor{refblue}{RGB}{45,19,180} \definecolor{emeraldgreen}{RGB}{41,95,36} \definecolor{ppurple}{RGB}{130,23,112} \definecolor{linegray}{RGB}{50,50,50}  \color{laserred}f_{1}^m(t) "
+         data-semantic-owns="4 9 8"
+         aria-level="0"
+         data-speech-node="true"
+         id="g12-9-7"
+         style="stroke-width:0">
+        <g
+           data-mml-node="msubsup"
+           data-latex="f_{1}^m"
+           data-semantic-type="subsup"
+           data-semantic-role="simple function"
+           data-semantic-annotation="depth:2"
+           data-semantic-id="4"
+           data-semantic-children="0,1,2"
+           data-semantic-parent="10"
+           data-semantic-attributes="latex:f_{1}^m"
+           data-semantic-collapsed="(4 (3 0 1) 2)"
+           data-semantic-owns="0 1 2"
+           aria-level="1"
+           data-speech-node="true"
+           id="g6-8-0"
+           style="stroke-width:0">
+          <g
+             data-mml-node="mi"
+             data-latex="f"
+             data-semantic-type="identifier"
+             data-semantic-role="simple function"
+             data-semantic-font="italic"
+             data-semantic-annotation="clearspeak:simple;nemeth:number;depth:4"
+             data-semantic-id="0"
+             data-semantic-parent="4"
+             data-semantic-attributes="latex:f"
+             data-semantic-operator="appl"
+             aria-level="3"
+             data-speech-node="true"
+             id="g2-3-3"
+             style="stroke-width:0">
+            <path
+               id="use1-1-9"
+               d="m 552,633 c 0,44 -43,72 -90,72 -62,0 -105,-40 -128,-119 -5,-18 -16,-69 -32,-153 h -65 c -22,0 -33,-1 -33,-22 0,-11 10,-16 31,-16 h 60 L 222,8 c -11,-57 -21,-99 -30,-127 -12,-37 -29,-56 -51,-56 -15,0 -27,4 -38,11 32,5 48,24 48,56 0,26 -13,39 -40,39 -34,0 -58,-30 -58,-64 0,-44 41,-72 88,-72 25,0 48,10 67,31 32,33 57,80 75,143 11,39 21,77 28,115 l 58,311 h 82 c 23,0 33,1 33,24 0,9 -10,14 -30,14 h -77 c 6,41 34,192 43,211 10,21 24,31 42,31 15,0 28,-4 39,-11 -31,-7 -47,-25 -47,-56 0,-26 13,-39 40,-39 34,0 58,30 58,64 z"
+               style="stroke-width:0" />
+          </g>
+          <g
+             data-mml-node="mi"
+             transform="matrix(0.707,0,0,0.707,638.1,413)"
+             data-latex="m"
+             data-semantic-type="identifier"
+             data-semantic-role="latinletter"
+             data-semantic-font="italic"
+             data-semantic-annotation="clearspeak:simple;depth:3"
+             data-semantic-id="2"
+             data-semantic-parent="4"
+             data-semantic-attributes="latex:m"
+             aria-level="2"
+             data-speech-node="true"
+             id="g3-4-2"
+             style="stroke-width:0">
+            <path
+               id="use2-8-0"
+               d="m 657,442 c -61,0 -114,-30 -159,-89 -9,59 -47,89 -115,89 -59,0 -110,-26 -152,-79 -8,44 -43,79 -94,79 -41,0 -71,-33 -92,-98 -11,-32 -16,-51 -16,-57 0,-9 5,-14 16,-14 5,0 8,1 11,3 5,9 8,16 10,23 18,76 41,114 68,114 18,0 27,-14 27,-42 0,-13 -5,-40 -16,-81 L 88,63 C 84,51 79,25 79,19 c 0,-20 11,-30 32,-30 20,0 34,10 41,30 1,5 8,30 19,73 l 21,89 30,114 c 11,23 28,46 50,70 29,32 65,48 108,48 33,0 49,-22 49,-65 0,-13 -5,-40 -15,-81 L 387,153 c -7,-29 -23,-89 -31,-121 -1,-7 -2,-11 -2,-13 0,-20 11,-30 33,-30 11,0 19,3 26,10 15,15 16,22 22,49 l 59,237 c 3,13 17,36 41,68 30,40 70,60 119,60 33,0 49,-22 49,-65 0,-39 -20,-112 -61,-219 -9,-23 -13,-42 -13,-55 0,-49 37,-85 85,-85 45,0 79,25 104,75 20,40 30,67 30,80 0,9 -5,14 -16,14 -7,-1 -14,-10 -19,-21 C 791,58 759,18 716,18 c -13,0 -20,10 -20,29 0,15 6,37 18,68 41,107 61,180 61,218 0,71 -47,109 -118,109 z"
+               style="stroke-width:0" />
+          </g>
+          <g
+             data-mml-node="TeXAtom"
+             transform="matrix(0.707,0,0,0.707,523,-247)"
+             data-mjx-texclass="ORD"
+             data-latex="{1}"
+             id="g5-5-0"
+             style="stroke-width:0">
+            <g
+               data-mml-node="mn"
+               data-latex="1"
+               data-semantic-type="number"
+               data-semantic-role="integer"
+               data-semantic-font="normal"
+               data-semantic-annotation="clearspeak:simple;depth:4"
+               data-semantic-id="1"
+               data-semantic-parent="4"
+               data-semantic-attributes="latex:{1};texclass:ORD"
+               aria-level="3"
+               data-speech-node="true"
+               id="g4-9-6"
+               style="stroke-width:0">
+              <path
+                 id="use3-6-5"
+                 d="M 269,666 C 228,624 168,603 89,603 v -39 c 52,0 95,8 128,24 V 82 c 0,-18 -4,-30 -13,-35 -9,-5 -34,-8 -74,-8 H 95 V 0 c 25,2 79,3 162,3 83,0 137,-1 162,-3 v 39 h -35 c -41,0 -66,3 -74,8 -8,5 -13,17 -13,35 v 554 c 0,24 -2,30 -28,30 z"
+                 style="stroke-width:0" />
+            </g>
+          </g>
+        </g>
+        <g
+           data-mml-node="mo"
+           data-semantic-type="punctuation"
+           data-semantic-role="application"
+           data-semantic-annotation="nemeth:number;depth:2"
+           data-semantic-id="9"
+           data-semantic-parent="10"
+           data-semantic-added="true"
+           data-semantic-operator="appl"
+           aria-level="1"
+           data-speech-node="true"
+           transform="translate(1308.9)"
+           id="g7-1-6"
+           style="stroke-width:0">
+          <path
+             id="use5-3-5"
+             d=""
+             style="stroke-width:0" />
+        </g>
+        <g
+           data-mml-node="mrow"
+           data-semantic-added="true"
+           data-semantic-type="fenced"
+           data-semantic-role="leftright"
+           data-semantic-annotation="depth:2"
+           data-semantic-id="8"
+           data-semantic-children="6"
+           data-semantic-content="5,7"
+           data-semantic-parent="10"
+           data-semantic-owns="5 6 7"
+           aria-level="1"
+           data-speech-node="true"
+           transform="translate(1308.9)"
+           id="g11-4-6"
+           style="stroke-width:0">
+          <g
+             data-mml-node="mo"
+             data-latex="("
+             data-semantic-type="fence"
+             data-semantic-role="open"
+             data-semantic-annotation="depth:3"
+             data-semantic-id="5"
+             data-semantic-parent="8"
+             data-semantic-attributes="latex:("
+             data-semantic-operator="fenced"
+             aria-level="2"
+             data-speech-node="true"
+             id="g8-2-8"
+             style="stroke-width:0">
+            <path
+               id="use6-3-4"
+               d="m 318,-248 c 9,0 14,5 14,14 0,3 -2,7 -5,11 -52,40 -94,106 -125,197 -27,79 -41,157 -41,234 v 84 c 0,77 14,155 41,234 31,91 73,157 125,197 3,3 5,7 5,11 0,9 -5,14 -14,14 -1,0 -4,-1 -7,-3 C 251,699 201,631 160,540 121,453 101,371 101,292 v -84 c 0,-79 20,-161 59,-248 41,-91 91,-159 151,-205 3,-2 6,-3 7,-3 z"
+               style="stroke-width:0" />
+          </g>
+          <g
+             data-mml-node="mi"
+             data-latex="t"
+             data-semantic-type="identifier"
+             data-semantic-role="latinletter"
+             data-semantic-font="italic"
+             data-semantic-annotation="clearspeak:simple;depth:3"
+             data-semantic-id="6"
+             data-semantic-parent="8"
+             data-semantic-attributes="latex:t"
+             aria-level="2"
+             data-speech-node="true"
+             transform="translate(389)"
+             id="g9-2-1"
+             style="stroke-width:0">
+            <path
+               id="use7-2-3"
+               d="m 330,419 c 0,9 -10,14 -31,14 h -81 c 26,104 39,158 39,162 0,21 -11,31 -32,31 -23,0 -37,-13 -43,-39 L 145,433 H 56 c -22,0 -33,-1 -33,-22 0,-11 10,-16 31,-16 h 81 C 86,200 62,97 62,84 c 0,-56 38,-95 94,-95 38,0 71,17 100,52 24,29 41,57 52,84 4,11 6,17 6,20 0,9 -5,14 -15,14 -8,0 -14,-5 -18,-16 C 247,60 206,19 157,19 c -17,0 -26,14 -26,41 0,15 2,31 6,47 l 71,288 h 89 c 26,0 33,2 33,24 z"
+               style="stroke-width:0" />
+          </g>
+          <g
+             data-mml-node="mo"
+             data-latex=")"
+             data-semantic-type="fence"
+             data-semantic-role="close"
+             data-semantic-annotation="depth:3"
+             data-semantic-id="7"
+             data-semantic-parent="8"
+             data-semantic-attributes="latex:)"
+             data-semantic-operator="fenced"
+             aria-level="2"
+             data-speech-node="true"
+             transform="translate(750)"
+             id="g10-4-6"
+             style="stroke-width:0">
+            <path
+               id="use8-1-9"
+               d="m 78,-245 c 60,46 110,114 151,205 39,87 59,169 59,248 v 84 c 0,79 -20,161 -59,248 -41,91 -91,159 -151,205 -3,2 -6,3 -7,3 -9,0 -14,-5 -14,-14 0,-4 2,-8 5,-11 52,-40 94,-106 125,-197 27,-79 41,-157 41,-234 v -84 c 0,-77 -14,-155 -41,-234 -31,-91 -73,-157 -125,-197 -3,-4 -5,-8 -5,-11 0,-9 5,-14 14,-14 1,0 4,1 7,3 z"
+               style="stroke-width:0" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
   <path
-     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
-     d="m 860.95408,535.6489 c -2.55765,-1.01424 -5.1153,-2.02848 -7.62885,-2.09462 -2.51356,-0.0661 -4.98297,0.8158 -7.09965,3.54988 -2.11668,2.73407 -3.88053,7.3201 -5.15936,11.48731 -1.27882,4.16721 -2.07256,7.91541 -2.38124,10.60536 -0.30868,2.68995 -0.13229,4.3215 0.0441,5.95311"
-     id="path22"
-     inkscape:path-effect="#path-effect23"
-     inkscape:original-d="m 860.95408,535.6489 c -2.55765,-1.01423 -5.1153,-2.02848 -7.67292,-3.04271 -2.46949,0.88196 -4.9389,1.7639 -7.40833,2.64583 -1.76393,4.58621 -3.5278,9.17223 -5.29167,13.75834 -0.79378,3.74832 -1.5875,7.49652 -2.38125,11.24479 0.1764,1.63163 0.35277,3.26318 0.52917,4.89479" />
+     style="fill:none;stroke:#d11723;stroke-width:0.25;stroke-linecap:square;stroke-opacity:1;marker-end:url(#Triangle-3)"
+     d="m 849.90772,537.30254 c 1.42214,0.23151 2.84424,0.46302 4.2609,1.18513 1.41665,0.72211 2.82771,1.93474 4.40421,3.53329 1.5765,1.59854 3.31827,3.58285 4.23882,5.24204 0.92055,1.65919 1.01977,2.99305 1.07489,4.00732 0.0551,1.01428 0.0662,1.7088 0.0772,2.40332"
+     id="path35"
+     inkscape:path-effect="#path-effect35"
+     inkscape:original-d="m 849.90772,537.30254 c 1.42214,0.23151 2.84424,0.46302 4.26641,0.69454 1.41114,1.2127 2.8222,2.42533 4.23333,3.63802 1.74187,1.9844 3.48364,3.96871 5.22552,5.95312 0.0992,1.33397 0.19844,2.66783 0.29766,4.00183 0.011,0.69455 0.022,1.38907 0.0331,2.08359"
+     sodipodi:nodetypes="cccccc" />
   <path
-     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
-     d="m 890.58741,551.78848 c 2.24896,0.44097 4.49792,0.88195 6.41616,2.57972 1.91824,1.69777 3.50571,4.65222 3.39545,7.36423 -0.11026,2.71201 -1.91822,5.18141 -3.79237,6.43817 -1.87415,1.25677 -3.81439,1.30086 -5.75466,1.34496"
-     id="path23"
-     inkscape:path-effect="#path-effect24"
-     inkscape:original-d="m 890.58741,551.78848 c 2.24896,0.44098 4.49792,0.88194 6.74687,1.32292 1.58753,2.95457 3.175,5.90902 4.7625,8.86354 -1.80803,2.46949 -3.61598,4.9389 -5.42395,7.40833 -1.94033,0.0441 -3.88057,0.0882 -5.82084,0.13229" />
-  <path
-     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
-     d="m 892.83637,552.31765 c 1.98437,0.26458 3.96875,0.52917 6.15158,0.24253 2.18282,-0.28664 4.56404,-1.12447 6.98941,-3.04273 2.42538,-1.91826 4.89477,-4.91681 6.87916,-8.81946 1.98439,-3.90264 3.48366,-8.70915 4.12307,-12.10466 0.63941,-3.3955 0.41893,-5.37985 0.19844,-7.36422"
-     id="path24"
-     inkscape:path-effect="#path-effect25"
-     inkscape:original-d="m 892.83637,552.31765 c 1.98437,0.26458 3.96875,0.52917 5.95312,0.79375 2.38128,-0.83786 4.7625,-1.67569 7.14375,-2.51354 2.46949,-2.99868 4.93887,-5.99723 7.40834,-8.99584 1.49931,-4.80668 2.9986,-9.61318 4.49791,-14.41979 -0.2205,-1.9844 -0.44098,-3.96875 -0.66146,-5.95312" />
-  <path
-     style="fill:none;fill-opacity:1;stroke:#295f24;stroke-width:0.4;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle-3)"
-     d="m 938.5302,520.8548 c 0.31181,2.77514 0.62362,5.5503 -1.2473,8.06042 -1.87093,2.51012 -5.92442,4.75514 -11.6463,6.3766 -5.72187,1.62145 -13.11171,2.61923 -19.00505,3.05577 -5.89334,0.43654 -10.28984,0.31181 -14.68643,0.18708"
-     id="path25"
-     inkscape:path-effect="#path-effect26"
-     inkscape:original-d="m 938.5302,520.8548 c 0.31181,2.77514 0.62362,5.5503 0.93543,8.32543 -4.05365,2.24512 -8.10715,4.49014 -12.16075,6.73521 -7.39015,0.99782 -14.77999,1.99559 -22.16999,2.99342 -4.39668,-0.12473 -8.79318,-0.24946 -13.18977,-0.37419"
-     sodipodi:nodetypes="ccccc" />
-  <path
-     style="fill:none;fill-opacity:1;stroke:#d11723;stroke-width:0.4;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle-3)"
-     d="m 819.82245,566.03672 c 1.6838,-4.14713 3.3676,-8.29427 6.15838,-11.28771 2.79079,-2.99344 6.68839,-4.83311 10.88234,-5.98683 4.19395,-1.15372 8.68398,-1.62143 12.76877,-1.83971 4.0848,-0.21827 7.76414,-0.18711 11.44355,-0.15594"
-     id="path26"
-     inkscape:path-effect="#path-effect27"
-     inkscape:original-d="m 819.82245,566.03672 c 1.68381,-4.14713 3.36759,-8.29427 5.0514,-12.4414 3.89777,-1.83975 7.79537,-3.67943 11.69305,-5.51913 4.49022,-0.46773 8.98025,-0.93543 13.47036,-1.40316 3.67948,0.0312 7.35882,0.0624 11.03823,0.0935"
+     style="fill:none;stroke:#295f24;stroke-width:0.25;stroke-linecap:square;stroke-opacity:1;marker-end:url(#Triangle-3)"
+     d="m 914.03611,558.83301 c -1.58749,-1.11345 -3.17501,-2.22691 -5.30273,-3.47819 -2.12772,-1.25127 -4.79555,-2.6403 -6.31439,-4.16172 -1.51884,-1.52141 -1.88862,-3.17509 -2.06568,-4.74908 -0.17705,-1.574 -0.16135,-3.06815 -0.14565,-4.56234"
+     id="path36"
+     inkscape:path-effect="#path-effect36"
+     inkscape:original-d="m 914.03611,558.83301 c -1.5875,-1.11344 -3.175,-2.22692 -4.7625,-3.34036 -2.66796,-1.38909 -5.33578,-2.77813 -8.00365,-4.16719 -0.36981,-1.65377 -0.73959,-3.30745 -1.1094,-4.96122 0.0157,-1.49422 0.0314,-2.98837 0.0471,-4.48256"
      sodipodi:nodetypes="ccccc" />
 </svg>
